@@ -1,0 +1,12 @@
+<h1>Search In Type Results:</h1>
+
+<ul>
+  <% @genes.each do |gene| %> <!--why can gene.name only be used inside each loop?-->
+    <li>
+      <a href="/genes/<%= gene.id %>">
+      <%=gene.identity%>
+      </a>
+      <p>Type: <%=gene.form%></p>
+    </li>
+  <% end %>
+</ul>

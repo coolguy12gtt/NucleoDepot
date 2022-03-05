@@ -1,0 +1,24 @@
+<%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+ 
+
+<h1>NucleoDepot:</h1>
+
+<a href="\genes.csv"><h2>Download CSV</h2></a>
+
+<form class="form-inline-my-2 my-lg-0" action="/searchID">
+  <input class="form-control mr-sm-2" name="q" type="text" placeholder="Search by Gene" aria-label="Search">
+  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
+</form>
+
+<form class="dropdown">
+  <button onmouseover="myFunction()" class="dropbtn">Cancer Type</button>
+  <div id="myDropdown" class="dropdown-content">
+    <%x = ""%>
+    <% @genes.each do |gene| %>
+      <%if(x!=gene.form)%>
+        <a href="/searchType?q=<%=gene.form%>"><%=gene.form%></a>
+        <%x = gene.form%>
+      <%end%>
+    <%end%>
+  </div>
+</div>

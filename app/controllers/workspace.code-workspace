@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "blog",
+			"path": "..\\..\\..\\blog"
+		},
+		{
+			"name": "readit",
+			"path": "..\\..\\..\\readit"
+		},
+		{
+			"name": "blog2",
+			"path": "..\\..\\..\\blog2"
+		},
+		{
+			"name": "database",
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
