@@ -3,3 +3,16 @@
 
 <p>Type: <%= @gene.form%></p>
 <p>Description: <%= @gene.name%></p>
+
+<%x = 0%>
+<%@mutations = Meutation.all%>
+<%@mutations.each do |mutation|%>
+  <%if mutation.identity == @gene.identity%>
+    <%x += 1%>
+    <h3>Mutation <%=x%> of gene <%=@gene.identity%>:</h3>
+    <p>Mutation Location: <%=mutation.location%></p>
+    <p>Mutation Type: <%=mutation.kind%></p>
+    <p>Mutation product: <%=mutation.subtype%>
+    <div></div>
+  <%end%>
+<%end%>

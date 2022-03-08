@@ -13,6 +13,7 @@ class GenesController < ApplicationController
 
   def searchID
     @genes = Gene.where("identity LIKE ? ","%" + params[:q] + "%")
+    @meutations = Meutation.where("identity LIKE ? ","%" + params[:q] + "%")
   end 
 
   def searchName

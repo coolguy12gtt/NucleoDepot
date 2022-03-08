@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  form: MyString
+  identity: MyString
+  location: MyString
+  type: 
+  subtype: MyString
+  resultant: MyString
+
+two:
+  form: MyString
+  identity: MyString
+  location: MyString
+  type: 
+  subtype: MyString
+  resultant: MyString

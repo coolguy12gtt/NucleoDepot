@@ -1,0 +1,2 @@
+class Meutation < ApplicationRecord
+end
