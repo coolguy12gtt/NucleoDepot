@@ -4,9 +4,10 @@ class CreateMeutations < ActiveRecord::Migration[7.0]
       t.string :form
       t.string :identity
       t.string :location
-      t.string :kind
       t.string :subtype
       t.string :resultant
+      t.string :type
+      t.string :detailedMutations
 
       t.timestamps
     end
