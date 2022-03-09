@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_03_05_175758) do
+ActiveRecord::Schema[7.0].define(version: 2022_03_07_233945) do
   create_table "active_storage_attachments", force: :cascade do |t|
     t.string "name", null: false
     t.string "record_type", null: false
@@ -47,6 +47,10 @@ ActiveRecord::Schema[7.0].define(version: 2022_03_05_175758) do
     t.datetime "updated_at", null: false
     t.string "type"
     t.string "form"
+    t.string "mutation"
+    t.string "mutationLocation"
+    t.string "detailedMutations"
+    t.string "resultant"
   end
 
   create_table "images", force: :cascade do |t|
@@ -54,6 +58,22 @@ ActiveRecord::Schema[7.0].define(version: 2022_03_05_175758) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "link"
+  end
+
+  create_table "meutations", force: :cascade do |t|
+    t.string "form"
+    t.string "identity"
+    t.string "location"
+    t.string "subtype"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.string "kind"
+  end
+
+  create_table "mutations", force: :cascade do |t|
+    t.string "mutationsArray"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "webs", force: :cascade do |t|

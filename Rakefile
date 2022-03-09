@@ -13,6 +13,16 @@ CSV.foreach("megaGenes2.csv", headers: true) do |row|
   end
 end
 
+
+task :readMutationCSV => :environment do 
+  require 'csv'
+  puts 'running...'
+  CSV.foreach("mutations.csv", headers: true) do |row|
+      Meutation.create!(row.to_hash)
+    end
+  end
+
+
 task :updateDescriptions => :environment do
   require 'csv'
   puts "Processing..."
@@ -27,7 +37,8 @@ task :updateDescriptions => :environment do
   forms = [#"adrenal","bone marrow","bladder","brain","breast",
   #"cervix","colorectal","esophagus","head and neck","kidney",
   #"liver","lungs","ovary","pancreas","pleura","prostate","skin",
-  "soft tissue","stomach","thyroid","uterus","bile duct"]
+  #"soft tissue","stomach","thyroid",
+  "uterus","bile duct"]
   x = 0
   forms.each do |form|
     x=0
@@ -48,6 +59,50 @@ task :updateDescriptions => :environment do
     end
   end
 end
+
+# task :importMutations => :environment do
+#     require 'csv'
+#     puts "Processing..."
+#     #gene = Gene.find_by(identity: "KRAS")
+#     #puts gene.identity
+#     #gene.identity = "KRAS"
+#     #gene.save
+#     #puts gene.identity
+  
+#     geneTable = CSV.parse(File.read("mutations.csv"), headers: true)
+#     puts geneTable[0][1]
+#     forms = ["bone marrow",
+#       #"bone marrow","bladder","brain","breast",
+#     #"cervix","colorectal","esophagus","head and neck","kidney",
+#     #"liver","lungs","ovary","pancreas","pleura","prostate","skin",
+#     #"soft tissue","stomach","thyroid",
+#     #"uterus","bile duct"
+#   ]
+#     x = 0
+#     forms.each do |form|
+#       x=0
+#       puts "Processing genes for " + form + " cancer"
+#       geneTable.each do |newGene|
+#         if x%10 == 0
+#            puts x
+#         end
+#         mutation = Mutation.find_by(form: form, identity: newGene[5])
+#         #puts newGene[6]
+#         if gene != nil
+#           #puts gene.information
+#           meutation.mutation = newGene[1]
+#           meutation.mutationLocation = newGene[0]
+#           meutation.detailedMutations = newGene[3]
+#           meutation.resultant = newGene[4]
+#           #.mutationsArray << newGene[4]  
+#           meutation.save
+#           #puts gene.information
+#           #puts gene.identity
+#           x+=1
+#         end
+#       end
+#     end
+#   end
 
 task :condenseElements => :environment do  #I hope this works
   forms = ["adrenal","bone marrow","bladder","brain","breast",
