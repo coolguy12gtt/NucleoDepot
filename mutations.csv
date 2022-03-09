@@ -1,0 +1,1001 @@
+location,kind,subtype,identity,form
+chr1:g.114713908T>C,Substitution,Missense NRAS Q61R,NRAS,bone marrow
+chr12:g.25227341T>G,Substitution,Missense KRAS Q61H,KRAS,bone marrow
+chr1:g.114713909G>T,Substitution,Missense NRAS Q61K,NRAS,bone marrow
+chr7:g.140753336A>T,Substitution,Missense BRAF V600E,BRAF,bone marrow
+chr12:g.25245347C>T,Substitution,Missense KRAS G13D,KRAS,bone marrow
+chr12:g.25245350C>T,Substitution,Missense KRAS G12D,KRAS,bone marrow
+chr1:g.114716124C>G,Substitution,Missense NRAS G13R,NRAS,bone marrow
+chr1:g.114716126C>T,Substitution,Missense NRAS G12D,NRAS,bone marrow
+chr12:g.25245350C>A,Substitution,Missense KRAS G12V,KRAS,bone marrow
+chr22:g.22881117C>T,Substitution,Synonymous IGLV3-1 L23L,IGLV3-1,bone marrow
+chr22:g.22881239G>A,Substitution,Synonymous IGLV3-1 V63V,IGLV3-1,bone marrow
+chr6:g.394972A>G,Substitution,Missense IRF4 K123R,IRF4,bone marrow
+chr1:g.114716123C>T,Substitution,Missense NRAS G13D,NRAS,bone marrow
+chr14:g.106770698G>A,Substitution,Synonymous IGHV2-70 Y79Y,IGHV2-70,bone marrow
+chr2:g.208248389G>A,Substitution,Missense IDH1 R132C,IDH1,bone marrow
+chr14:g.106770784T>C,Substitution,Missense IGHV2-70 S51G,IGHV2-70,bone marrow
+chr22:g.22881192G>A,Substitution,Missense IGLV3-1 D48N,IGLV3-1,bone marrow
+chr14:g.106723689G>A,Substitution,Synonymous IGHV2-70 S81S,IGHV2-70,bone marrow
+chr22:g.22881206C>T,Substitution,Synonymous IGLV3-1 C52C,IGLV3-1,bone marrow
+chr12:g.25245351C>G,Substitution,Missense KRAS G12R,KRAS,bone marrow
+chr14:g.106770787T>C,Substitution,Missense IGHV2-70 T50A,IGHV2-70,bone marrow
+chr15:g.90088702C>T,Substitution,Missense IDH2 R140Q,IDH2,bone marrow
+chr5:g.171410539_171410540insTCTG,Insertion,Frameshift NPM1 W288Cfs*12,NPM1,bone marrow
+chr14:g.106770700A>T,Substitution,Missense IGHV2-70 Y79N,IGHV2-70,bone marrow
+chr14:g.106770838G>A,Substitution,Missense IGHV2-70 P33S,IGHV2-70,bone marrow
+chr14:g.106723764G>A,Substitution,Synonymous IGHV2-70 S56S,IGHV2-70,bone marrow
+chr14:g.106723786C>T,Substitution,Missense IGHV2-70 S49N,IGHV2-70,bone marrow
+chr22:g.22881215G>A,Substitution,Synonymous IGLV3-1 Q55Q,IGLV3-1,bone marrow
+chr12:g.25227342T>C,Substitution,Missense KRAS Q61R,KRAS,bone marrow
+chr14:g.106770692G>A,Substitution,Synonymous IGHV2-70 S81S,IGHV2-70,bone marrow
+chr14:g.106770786G>C,Substitution,Missense IGHV2-70 T50S,IGHV2-70,bone marrow
+chr12:g.25245350C>G,Substitution,Missense KRAS G12A,KRAS,bone marrow
+chr14:g.106723785G>A,Substitution,Synonymous IGHV2-70 S49S,IGHV2-70,bone marrow
+chr14:g.105863428A>G,Substitution,Intron IGHM,Intron,bone marrow
+chr13:g.72761926C>T,Substitution,Missense DIS3 R780K,DIS3,bone marrow
+chr1:g.114713907T>A,Substitution,Missense NRAS Q61H,NRAS,bone marrow
+chr14:g.106770706C>T,Substitution,Missense IGHV2-70 D77N,IGHV2-70,bone marrow
+chr22:g.22881252C>T,Substitution,Stop Gained IGLV3-1 Q68*,IGLV3-1,bone marrow
+chr2:g.25234373C>T,Substitution,Missense DNMT3A R882H,DNMT3A,bone marrow
+chr12:g.122021402C>G,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr8:g.30095403G>A,Substitution,Upstream Gene LEPROTL1,Gene,bone marrow
+chr12:g.25227342T>A,Substitution,Missense KRAS Q61L,KRAS,bone marrow
+chr20:g.23082570A>T,Substitution,3-prime UTR CD93,UTR,bone marrow
+chr14:g.106770783C>G,Substitution,Missense IGHV2-70 S51T,IGHV2-70,bone marrow
+chr12:g.25245351C>T,Substitution,Missense KRAS G12S,KRAS,bone marrow
+chr13:g.72772200C>T,Substitution,Missense DIS3 D488N,DIS3,bone marrow
+chr13:g.28018505C>A,Substitution,Missense FLT3 D835Y,FLT3,bone marrow
+chr14:g.105863857C>T,Substitution,Stop Gained IGHM W132*,IGHM,bone marrow
+chr14:g.106723780C>G,Substitution,Missense IGHV2-70 S51T,IGHV2-70,bone marrow
+chr14:g.106723625T>C,Substitution,Missense IGHV2-70 M103V,IGHV2-70,bone marrow
+chr7:g.140753355C>T,Substitution,Missense BRAF D594N,BRAF,bone marrow
+chr14:g.106770699T>G,Substitution,Missense IGHV2-70 Y79S,IGHV2-70,bone marrow
+chr14:g.105863265A>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106770681T>C,Substitution,Missense IGHV2-70 K85R,IGHV2-70,bone marrow
+chr22:g.22888184C>T,Substitution,Missense IGLL5 A44V,IGLL5,bone marrow
+chr14:g.23567374C>T,Substitution,5-prime UTR AP1G2,UTR,bone marrow
+chr14:g.106770700A>C,Substitution,Missense IGHV2-70 Y79D,IGHV2-70,bone marrow
+chr14:g.106770784T>G,Substitution,Missense IGHV2-70 S51R,IGHV2-70,bone marrow
+chr10:g.94402611C>T,Substitution,5-prime UTR TBC1D12,UTR,bone marrow
+chr22:g.22881211A>G,Substitution,Missense IGLV3-1 Y54C,IGLV3-1,bone marrow
+chr14:g.106723764G>C,Substitution,Missense IGHV2-70 S56R,IGHV2-70,bone marrow
+chr22:g.22881116G>C,Substitution,Missense IGLV3-1 E22D,IGLV3-1,bone marrow
+chr1:g.114713908T>A,Substitution,Missense NRAS Q61L,NRAS,bone marrow
+chr12:g.25227341T>A,Substitution,Missense KRAS Q61H,KRAS,bone marrow
+chr14:g.106762211G>C,Substitution,Missense IGHV1-69-2 N78K,IGHV1-69-2,bone marrow
+chr14:g.106723627G>A,Substitution,Missense IGHV2-70 T102I,IGHV2-70,bone marrow
+chr14:g.105863252A>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106770594T>G,Substitution,Missense IGHV2-70 Y114S,IGHV2-70,bone marrow
+chr14:g.106723778C>T,Substitution,Missense IGHV2-70 G52R,IGHV2-70,bone marrow
+chr14:g.106723786C>G,Substitution,Missense IGHV2-70 S49T,IGHV2-70,bone marrow
+chr17:g.44854626C>T,Substitution,Missense EFTUD2 R730H,EFTUD2,bone marrow
+chr1:g.204557927delAATAAC,Deletion,3-prime UTR MDM4,UTR,bone marrow
+chr14:g.106770838G>C,Substitution,Missense IGHV2-70 P33A,IGHV2-70,bone marrow
+chr14:g.106770778T>C,Substitution,Missense IGHV2-70 M53V,IGHV2-70,bone marrow
+chr1:g.114713900A>C,Substitution,Missense NRAS Y64D,NRAS,bone marrow
+chr1:g.114713907T>G,Substitution,Missense NRAS Q61H,NRAS,bone marrow
+chr22:g.22881364A>C,Substitution,Missense IGLV3-1 Y105S,IGLV3-1,bone marrow
+chrX:g.154399820A>C,Substitution,Missense RPL10 I70L,RPL10,bone marrow
+chr1:g.84078120C>T,Substitution,,,bone marrow
+chr6:g.111269980delTCTGTACA…,Deletion,3-prime UTR KIAA1919,UTR,bone marrow
+chr22:g.22881250A>C,Substitution,Missense IGLV3-1 Y67S,IGLV3-1,bone marrow
+chr12:g.25227334A>C,Substitution,Missense KRAS Y64D,KRAS,bone marrow
+chr22:g.22881254A>G,Substitution,Synonymous IGLV3-1 Q68Q,IGLV3-1,bone marrow
+chr14:g.106770837G>A,Substitution,Missense IGHV2-70 P33L,IGHV2-70,bone marrow
+chr14:g.106723797C>T,Substitution,Synonymous IGHV2-70 G45G,IGHV2-70,bone marrow
+chr14:g.106723780C>T,Substitution,Missense IGHV2-70 S51N,IGHV2-70,bone marrow
+chr14:g.106770594T>A,Substitution,Missense IGHV2-70 Y114F,IGHV2-70,bone marrow
+chr22:g.22881361A>G,Substitution,Missense IGLV3-1 Y104C,IGLV3-1,bone marrow
+chr14:g.106723593C>G,Substitution,Synonymous IGHV2-70 T113T,IGHV2-70,bone marrow
+chr14:g.106770693C>A,Substitution,Missense IGHV2-70 S81I,IGHV2-70,bone marrow
+chr22:g.22881199A>G,Substitution,Missense IGLV3-1 Y50C,IGLV3-1,bone marrow
+chr14:g.106770692G>C,Substitution,Missense IGHV2-70 S81R,IGHV2-70,bone marrow
+chr14:g.106770644G>A,Substitution,Synonymous IGHV2-70 N97N,IGHV2-70,bone marrow
+chr14:g.106770628T>C,Substitution,Missense IGHV2-70 M103V,IGHV2-70,bone marrow
+chr11:g.3358766T>G,Substitution,3-prime UTR ZNF195,UTR,bone marrow
+chr22:g.22881258A>T,Substitution,Missense IGLV3-1 S70C,IGLV3-1,bone marrow
+chr22:g.22881168A>T,Substitution,Missense IGLV3-1 T40S,IGLV3-1,bone marrow
+chr6:g.87589942G>A,Substitution,Missense RARS2 R6C,RARS2,bone marrow
+chr22:g.22881385G>C,Substitution,Missense IGLV3-1 S112T,IGLV3-1,bone marrow
+chr1:g.117623153delC,Deletion,Frameshift FAM46C H96Mfs*22,FAM46C,bone marrow
+chr1:g.114716127C>T,Substitution,Missense NRAS G12S,NRAS,bone marrow
+chr14:g.106770786G>A,Substitution,Missense IGHV2-70 T50I,IGHV2-70,bone marrow
+chr22:g.22881258A>G,Substitution,Missense IGLV3-1 S70G,IGLV3-1,bone marrow
+chr14:g.106770632A>C,Substitution,Synonymous IGHV2-70 L101L,IGHV2-70,bone marrow
+chr14:g.106762290G>A,Substitution,Missense IGHV1-69-2 A52V,IGHV1-69-2,bone marrow
+chr22:g.22881301A>T,Substitution,Missense IGLV3-1 N84I,IGLV3-1,bone marrow
+chr14:g.106770703T>A,Substitution,Stop Gained IGHV2-70 K78*,IGHV2-70,bone marrow
+chr14:g.106770772C>T,Substitution,Missense IGHV2-70 V55M,IGHV2-70,bone marrow
+chr14:g.106770698G>C,Substitution,Stop Gained IGHV2-70 Y79*,IGHV2-70,bone marrow
+chr6:g.37170647G>C,Substitution,Missense PIM1 K24N,PIM1,bone marrow
+chr14:g.106770800C>G,Substitution,Synonymous IGHV2-70 G45G,IGHV2-70,bone marrow
+chr14:g.106770649T>C,Substitution,Missense IGHV2-70 K96E,IGHV2-70,bone marrow
+chr14:g.106770754G>A,Substitution,Missense IGHV2-70 P61S,IGHV2-70,bone marrow
+chr12:g.122021402C>T,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr14:g.106770797G>C,Substitution,Missense IGHV2-70 F46L,IGHV2-70,bone marrow
+chr22:g.22881126C>T,Substitution,Missense IGLV3-1 P26S,IGLV3-1,bone marrow
+chr2:g.27134597C>T,Substitution,5-prime UTR PREB,UTR,bone marrow
+chr11:g.128460099C>A,Substitution,3-prime UTR ETS1,UTR,bone marrow
+chr17:g.442531A>T,Substitution,3-prime UTR FAM101B,UTR,bone marrow
+chr14:g.106770787T>A,Substitution,Missense IGHV2-70 T50S,IGHV2-70,bone marrow
+chr14:g.106723765C>T,Substitution,Missense IGHV2-70 S56N,IGHV2-70,bone marrow
+chr14:g.106770724G>A,Substitution,Missense IGHV2-70 L71F,IGHV2-70,bone marrow
+chr9:g.121283680T>C,Substitution,Non Coding Transcript Exon GSN-AS1,Exon,bone marrow
+chr22:g.22881211A>C,Substitution,Missense IGLV3-1 Y54S,IGLV3-1,bone marrow
+chr14:g.105863280T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106723781T>A,Substitution,Missense IGHV2-70 S51C,IGHV2-70,bone marrow
+chr3:g.58565435A>T,Substitution,Downstream Gene FAM107A,Gene,bone marrow
+chr12:g.25225627G>A,Substitution,Missense KRAS A146V,KRAS,bone marrow
+chr14:g.106723835G>C,Substitution,Missense IGHV2-70 P33A,IGHV2-70,bone marrow
+chr14:g.106723695G>A,Substitution,Synonymous IGHV2-70 F79F,IGHV2-70,bone marrow
+chr14:g.105863257T>A,Substitution,Start Lost IGHJ6 Y1?,IGHJ6,bone marrow
+chr14:g.105863244G>A,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106770881T>C,Substitution,Synonymous IGHV2-70 L18L,IGHV2-70,bone marrow
+chr5:g.171420098G>A,Substitution,5-prime UTR FGF18,UTR,bone marrow
+chr3:g.72376922T>A,Substitution,3-prime UTR RYBP,UTR,bone marrow
+chr22:g.22881252C>G,Substitution,Missense IGLV3-1 Q68E,IGLV3-1,bone marrow
+chr14:g.106723700T>C,Substitution,Missense IGHV2-70 K78E,IGHV2-70,bone marrow
+chr22:g.22881215G>C,Substitution,Missense IGLV3-1 Q55H,IGLV3-1,bone marrow
+chr22:g.22162547C>T,Substitution,Synonymous IGLV4-60 S76S,IGLV4-60,bone marrow
+chr14:g.106770810G>C,Substitution,Missense IGHV2-70 T42S,IGHV2-70,bone marrow
+chr14:g.106762290G>C,Substitution,Missense IGHV1-69-2 A52G,IGHV1-69-2,bone marrow
+chr14:g.106723808T>C,Substitution,Missense IGHV2-70 T42A,IGHV2-70,bone marrow
+chr22:g.22881239G>C,Substitution,Synonymous IGLV3-1 V63V,IGLV3-1,bone marrow
+chr14:g.106770806G>A,Substitution,Synonymous IGHV2-70 F43F,IGHV2-70,bone marrow
+chr14:g.106770868A>G,Substitution,Synonymous IGHV2-70 L23L,IGHV2-70,bone marrow
+chr14:g.106770706C>G,Substitution,Missense IGHV2-70 D77H,IGHV2-70,bone marrow
+chr14:g.105863282C>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr3:g.39096392delG,Deletion,Downstream Gene GORASP1,Gene,bone marrow
+chr14:g.105863255A>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr1:g.150811479T>C,Substitution,3-prime UTR ARNT,UTR,bone marrow
+chr21:g.5156248T>C,Substitution,3-prime UTR CH507-9B2.9,UTR,bone marrow
+chr14:g.106723797C>G,Substitution,Synonymous IGHV2-70 G45G,IGHV2-70,bone marrow
+chr14:g.106723728C>G,Substitution,Missense IGHV2-70 W68C,IGHV2-70,bone marrow
+chr14:g.106770879G>C,Substitution,Missense IGHV2-70 S19C,IGHV2-70,bone marrow
+chr14:g.106770784T>A,Substitution,Missense IGHV2-70 S51C,IGHV2-70,bone marrow
+chr14:g.106723698T>C,Substitution,Synonymous IGHV2-70 K78K,IGHV2-70,bone marrow
+chr14:g.106723835G>A,Substitution,Missense IGHV2-70 P33S,IGHV2-70,bone marrow
+chr22:g.22881197A>G,Substitution,Synonymous IGLV3-1 K49K,IGLV3-1,bone marrow
+chr14:g.106723778C>A,Substitution,Stop Gained IGHV2-70 G52*,IGHV2-70,bone marrow
+chr2:g.25233779A>C,Substitution,3-prime UTR DNMT3A,UTR,bone marrow
+chr14:g.106770674C>G,Substitution,Missense IGHV2-70 R87S,IGHV2-70,bone marrow
+chr15:g.58596100A>G,Substitution,3-prime UTR ADAM10,UTR,bone marrow
+chr13:g.72772226T>C,Substitution,Missense DIS3 D479G,DIS3,bone marrow
+chr1:g.113763954T>A,Substitution,3-prime UTR RSBN1,UTR,bone marrow
+chr14:g.106770801C>T,Substitution,Missense IGHV2-70 G45E,IGHV2-70,bone marrow
+chr14:g.106770881T>A,Substitution,Missense IGHV2-70 L18F,IGHV2-70,bone marrow
+chr14:g.105863257T>G,Substitution,Start Lost IGHJ6 Y1?,IGHJ6,bone marrow
+chr14:g.106770844C>G,Substitution,Missense IGHV2-70 V31L,IGHV2-70,bone marrow
+chr1:g.159927099G>C,Substitution,3-prime UTR IGSF9,UTR,bone marrow
+chr14:g.106723726A>G,Substitution,Missense IGHV2-70 L69P,IGHV2-70,bone marrow
+chr3:g.101860800A>T,Substitution,3-prime UTR NFKBIZ,UTR,bone marrow
+chr2:g.177540075A>G,Substitution,3-prime UTR AGPS,UTR,bone marrow
+chr14:g.106770712C>T,Substitution,Missense IGHV2-70 D75N,IGHV2-70,bone marrow
+chr5:g.150657438A>T,Substitution,Downstream Gene SYNPO,Gene,bone marrow
+chr22:g.22881365C>T,Substitution,Synonymous IGLV3-1 Y105Y,IGLV3-1,bone marrow
+chr14:g.106770783C>T,Substitution,Missense IGHV2-70 S51N,IGHV2-70,bone marrow
+chr14:g.106770767G>T,Substitution,Missense IGHV2-70 S56R,IGHV2-70,bone marrow
+chr22:g.22881183A>G,Substitution,Missense IGLV3-1 K45E,IGLV3-1,bone marrow
+chr14:g.106770711T>C,Substitution,Missense IGHV2-70 D75G,IGHV2-70,bone marrow
+chr14:g.106851126T>A,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr22:g.22881202C>G,Substitution,Missense IGLV3-1 A51G,IGLV3-1,bone marrow
+chrX:g.12975590C>G,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chr22:g.22881111T>C,Substitution,Missense IGLV3-1 Y21H,IGLV3-1,bone marrow
+chr22:g.22881196A>G,Substitution,Missense IGLV3-1 K49R,IGLV3-1,bone marrow
+chr7:g.140753354T>C,Substitution,Missense BRAF D594G,BRAF,bone marrow
+chr13:g.30205638G>A,Substitution,3-prime UTR KATNAL1,UTR,bone marrow
+chr9:g.136007517A>G,Substitution,3-prime UTR NACC2,UTR,bone marrow
+chr9:g.105394441G>T,Substitution,3-prime UTR SLC44A1,UTR,bone marrow
+chr22:g.22881386C>T,Substitution,Synonymous IGLV3-1 S112S,IGLV3-1,bone marrow
+chr4:g.54733155A>T,Substitution,Missense KIT D816V,KIT,bone marrow
+chr14:g.106770717T>G,Substitution,Missense IGHV2-70 D73A,IGHV2-70,bone marrow
+chr14:g.106723784T>C,Substitution,Missense IGHV2-70 T50A,IGHV2-70,bone marrow
+chr10:g.67916803A>T,Substitution,3-prime UTR SIRT1,UTR,bone marrow
+chr14:g.106723697A>G,Substitution,Missense IGHV2-70 F79L,IGHV2-70,bone marrow
+chr5:g.180353316T>C,Substitution,5-prime UTR GFPT2,UTR,bone marrow
+chr2:g.25234374G>A,Substitution,Missense DNMT3A R882C,DNMT3A,bone marrow
+chr14:g.106723627G>C,Substitution,Missense IGHV2-70 T102R,IGHV2-70,bone marrow
+chr14:g.106723783G>A,Substitution,Missense IGHV2-70 T50I,IGHV2-70,bone marrow
+chr14:g.106770774C>T,Substitution,Missense IGHV2-70 C54Y,IGHV2-70,bone marrow
+chr1:g.183553617G>C,Substitution,3-prime UTR SMG7,UTR,bone marrow
+chr12:g.112450406G>A,Substitution,Missense PTPN11 E76K,PTPN11,bone marrow
+chr12:g.25245351C>A,Substitution,Missense KRAS G12C,KRAS,bone marrow
+chr19:g.10230482G>A,Substitution,Intron S1PR2,Intron,bone marrow
+chr22:g.22881191G>A,Substitution,Synonymous IGLV3-1 G47G,IGLV3-1,bone marrow
+chr22:g.22881181A>G,Substitution,Missense IGLV3-1 D44G,IGLV3-1,bone marrow
+chr14:g.106770764C>T,Substitution,Stop Gained IGHV2-70 W57*,IGHV2-70,bone marrow
+chr14:g.106723591T>A,Substitution,Missense IGHV2-70 Y114F,IGHV2-70,bone marrow
+chr14:g.105863831A>G,Substitution,Missense IGHM L141P,IGHM,bone marrow
+chr12:g.25225628C>T,Substitution,Missense KRAS A146T,KRAS,bone marrow
+chr3:g.101822848delG,Deletion,3-prime UTR NXPE3,UTR,bone marrow
+chr22:g.22881345A>C,Substitution,Missense IGLV3-1 M99L,IGLV3-1,bone marrow
+chr6:g.17608714G>A,Substitution,3-prime UTR FAM8A1,UTR,bone marrow
+chr14:g.106723678T>C,Substitution,Missense IGHV2-70 K85R,IGHV2-70,bone marrow
+chr18:g.45842444A>T,Substitution,3-prime UTR SIGLEC15,UTR,bone marrow
+chr14:g.106770813C>T,Substitution,Missense IGHV2-70 C41Y,IGHV2-70,bone marrow
+chr14:g.106723710C>G,Substitution,Missense IGHV2-70 W74C,IGHV2-70,bone marrow
+chr14:g.106770839T>C,Substitution,Synonymous IGHV2-70 K32K,IGHV2-70,bone marrow
+chr14:g.106770749T>G,Substitution,Synonymous IGHV2-70 P62P,IGHV2-70,bone marrow
+chr22:g.22888014C>T,Substitution,5-prime UTR IGLL5,UTR,bone marrow
+chr22:g.22881115A>C,Substitution,Missense IGLV3-1 E22A,IGLV3-1,bone marrow
+chr14:g.106770648T>C,Substitution,Missense IGHV2-70 K96R,IGHV2-70,bone marrow
+chr12:g.122021401G>C,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr3:g.107810212A>T,Substitution,Downstream Gene BBX,Gene,bone marrow
+chr5:g.40829679A>G,Substitution,3-prime UTR RPL37,UTR,bone marrow
+chr2:g.208248388C>T,Substitution,Missense IDH1 R132H,IDH1,bone marrow
+chr1:g.243169326A>T,Substitution,Intron CEP170,Intron,bone marrow
+chr3:g.53186644A>G,Substitution,Missense PRKCD D434G,PRKCD,bone marrow
+chr14:g.106770692G>T,Substitution,Missense IGHV2-70 S81R,IGHV2-70,bone marrow
+chr14:g.105863856A>G,Substitution,Missense IGHM F133L,IGHM,bone marrow
+chr14:g.106770843A>G,Substitution,Missense IGHV2-70 V31A,IGHV2-70,bone marrow
+chr12:g.112450407A>G,Substitution,Missense PTPN11 E76G,PTPN11,bone marrow
+chr14:g.105863868A>T,Substitution,Splice Acceptor IGHM X129_splice,IGHM,bone marrow
+chr8:g.30095405C>T,Substitution,Upstream Gene LEPROTL1,Gene,bone marrow
+chr18:g.42085955A>G,Substitution,3-prime UTR PIK3C3,UTR,bone marrow
+chr16:g.29666524T>A,Substitution,3-prime UTR SPN,UTR,bone marrow
+chr3:g.86941459T>A,Substitution,3-prime UTR VGLL3,UTR,bone marrow
+chr16:g.23570949A>T,Substitution,3-prime UTR UBFD1,UTR,bone marrow
+chr22:g.22881262A>G,Substitution,Missense IGLV3-1 K71R,IGLV3-1,bone marrow
+chr22:g.22888180G>A,Substitution,Missense IGLL5 V43I,IGLL5,bone marrow
+chr14:g.106723775T>C,Substitution,Missense IGHV2-70 M53V,IGHV2-70,bone marrow
+chr14:g.106723790G>A,Substitution,Missense IGHV2-70 L48F,IGHV2-70,bone marrow
+chr14:g.106770670T>A,Substitution,Missense IGHV2-70 T89S,IGHV2-70,bone marrow
+chr13:g.83877374A>T,Substitution,3-prime UTR SLITRK1,UTR,bone marrow
+chr14:g.106723629A>T,Substitution,Synonymous IGHV2-70 L101L,IGHV2-70,bone marrow
+chr14:g.106770841T>C,Substitution,Missense IGHV2-70 K32E,IGHV2-70,bone marrow
+chrX:g.12975304G>A,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chr22:g.22881301A>G,Substitution,Missense IGLV3-1 N84S,IGLV3-1,bone marrow
+chr14:g.106723593C>A,Substitution,Synonymous IGHV2-70 T113T,IGHV2-70,bone marrow
+chr14:g.105863271G>A,Substitution,Intron IGHG1,Intron,bone marrow
+chr2:g.237324109delC,Deletion,3-prime UTR COL6A3,UTR,bone marrow
+chr14:g.105864623T>G,Substitution,Missense IGHJ3 I5L,IGHJ3,bone marrow
+chr3:g.28241849C>T,Substitution,Intron CMC1,Intron,bone marrow
+chr12:g.112450361G>T,Substitution,Missense PTPN11 D61Y,PTPN11,bone marrow
+chr14:g.106770642T>C,Substitution,Missense IGHV2-70 Q98R,IGHV2-70,bone marrow
+chr14:g.106770785A>G,Substitution,Synonymous IGHV2-70 T50T,IGHV2-70,bone marrow
+chr14:g.105863248T>A,Substitution,Intron IGHG1,Intron,bone marrow
+chr22:g.22881198T>G,Substitution,Missense IGLV3-1 Y50D,IGLV3-1,bone marrow
+chr13:g.42607866delG,Deletion,3-prime UTR TNFSF11,UTR,bone marrow
+chr14:g.65093775C>A,Substitution,Missense MAX R35L,MAX,bone marrow
+chr14:g.106770715A>G,Substitution,Missense IGHV2-70 W74R,IGHV2-70,bone marrow
+chr20:g.53943969T>A,Substitution,3-prime UTR BCAS1,UTR,bone marrow
+chr10:g.94402613G>A,Substitution,5-prime UTR TBC1D12,UTR,bone marrow
+chr22:g.22881364A>G,Substitution,Missense IGLV3-1 Y105C,IGLV3-1,bone marrow
+chr5:g.436273T>C,Substitution,3-prime UTR AHRR,UTR,bone marrow
+chr14:g.106770632A>T,Substitution,Synonymous IGHV2-70 L101L,IGHV2-70,bone marrow
+chr22:g.22881363T>C,Substitution,Missense IGLV3-1 Y105H,IGLV3-1,bone marrow
+chr5:g.111127929T>G,Substitution,3-prime UTR WDR36,UTR,bone marrow
+chr14:g.106770811T>C,Substitution,Missense IGHV2-70 T42A,IGHV2-70,bone marrow
+chr14:g.106770777A>T,Substitution,Missense IGHV2-70 M53K,IGHV2-70,bone marrow
+chr14:g.106723798C>T,Substitution,Missense IGHV2-70 G45E,IGHV2-70,bone marrow
+chr22:g.22881185A>G,Substitution,Synonymous IGLV3-1 K45K,IGLV3-1,bone marrow
+chr14:g.106723810C>T,Substitution,Missense IGHV2-70 C41Y,IGHV2-70,bone marrow
+chr14:g.106770634G>A,Substitution,Missense IGHV2-70 L101F,IGHV2-70,bone marrow
+chr3:g.30727410A>G,Substitution,3-prime UTR GADL1,UTR,bone marrow
+chr14:g.106723576A>T,Substitution,Missense IGHV2-70 I119K,IGHV2-70,bone marrow
+chr16:g.28321198C>T,Substitution,3-prime UTR SBK1,UTR,bone marrow
+chr1:g.114716126C>G,Substitution,Missense NRAS G12A,NRAS,bone marrow
+chr14:g.106770713C>G,Substitution,Missense IGHV2-70 W74C,IGHV2-70,bone marrow
+chr14:g.105863861T>C,Substitution,Start Lost IGHJ5 N1?,IGHJ5,bone marrow
+chr12:g.25245321G>T,Substitution,Missense KRAS Q22K,KRAS,bone marrow
+chr22:g.22881301A>C,Substitution,Missense IGLV3-1 N84T,IGLV3-1,bone marrow
+chr16:g.28321220C>T,Substitution,3-prime UTR SBK1,UTR,bone marrow
+chr5:g.77427052delC,Deletion,3-prime UTR PDE8B,UTR,bone marrow
+chr22:g.22881163G>C,Substitution,Missense IGLV3-1 S38T,IGLV3-1,bone marrow
+chr7:g.32485949A>C,Substitution,3-prime UTR LSM5,UTR,bone marrow
+chr14:g.106770697A>T,Substitution,Missense IGHV2-70 Y80N,IGHV2-70,bone marrow
+chr14:g.106770580T>C,Substitution,Missense IGHV2-70 I119V,IGHV2-70,bone marrow
+chr2:g.196989525T>C,Substitution,3-prime UTR ANKRD44,UTR,bone marrow
+chr22:g.22881342G>C,Substitution,Missense IGLV3-1 A98P,IGLV3-1,bone marrow
+chr22:g.22881257T>A,Substitution,Missense IGLV3-1 D69E,IGLV3-1,bone marrow
+chr14:g.106770705T>C,Substitution,Missense IGHV2-70 D77G,IGHV2-70,bone marrow
+chr14:g.106770721T>A,Substitution,Missense IGHV2-70 I72F,IGHV2-70,bone marrow
+chr22:g.22881203T>A,Substitution,Synonymous IGLV3-1 A51A,IGLV3-1,bone marrow
+chr12:g.24993661A>T,Substitution,Non Coding Transcript Exon C12orf77,Exon,bone marrow
+chr14:g.106770837G>C,Substitution,Missense IGHV2-70 P33R,IGHV2-70,bone marrow
+chr14:g.106723689G>C,Substitution,Missense IGHV2-70 S81R,IGHV2-70,bone marrow
+chr22:g.22888169T>C,Substitution,Missense IGLL5 L39P,IGLL5,bone marrow
+chr6:g.31582013G>A,Substitution,Intron LTB,Intron,bone marrow
+chr14:g.106359995C>G,Substitution,Missense IGHV3-33 S50T,IGHV3-33,bone marrow
+chr22:g.22881097G>A,Substitution,Missense IGLV3-1 G16E,IGLV3-1,bone marrow
+chr22:g.22881163G>A,Substitution,Missense IGLV3-1 S38N,IGLV3-1,bone marrow
+chr3:g.52837987delTGTGTGCA…,Deletion,3-prime UTR TMEM110,UTR,bone marrow
+chrX:g.12975590C>T,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chr2:g.151837629A>T,Substitution,3-prime UTR CACNB4,UTR,bone marrow
+chr22:g.22881168A>C,Substitution,Missense IGLV3-1 T40P,IGLV3-1,bone marrow
+chr2:g.88885968G>C,Substitution,Missense IGKV4-1 A60P,IGKV4-1,bone marrow
+chr6:g.30544807G>A,Substitution,3-prime UTR GNL1,UTR,bone marrow
+chr14:g.106723765C>G,Substitution,Missense IGHV2-70 S56T,IGHV2-70,bone marrow
+chr14:g.105863859A>C,Substitution,Missense IGHM W132G,IGHM,bone marrow
+chr14:g.106723641G>A,Substitution,Synonymous IGHV2-70 N97N,IGHV2-70,bone marrow
+chr17:g.81512269G>A,Substitution,Missense ACTG1 A29V,ACTG1,bone marrow
+chr14:g.106723774A>T,Substitution,Missense IGHV2-70 M53K,IGHV2-70,bone marrow
+chr6:g.31582120C>T,Substitution,Intron LTB,Intron,bone marrow
+chr2:g.88886149C>G,Substitution,Missense IGKV4-1 T120S,IGKV4-1,bone marrow
+chr8:g.2937446A>C,Substitution,Downstream Gene CSMD1,Gene,bone marrow
+chr3:g.30727424A>G,Substitution,3-prime UTR GADL1,UTR,bone marrow
+chr14:g.106770778T>G,Substitution,Missense IGHV2-70 M53L,IGHV2-70,bone marrow
+chr17:g.7674220C>T,Substitution,Missense TP53 R248Q,TP53,bone marrow
+chr3:g.72376919T>A,Substitution,3-prime UTR RYBP,UTR,bone marrow
+chr14:g.106723597G>C,Substitution,Missense IGHV2-70 A112G,IGHV2-70,bone marrow
+chr14:g.106723575T>C,Substitution,Missense IGHV2-70 I119M,IGHV2-70,bone marrow
+chr12:g.12917251T>C,Substitution,3-prime UTR GPRC5A,UTR,bone marrow
+chr22:g.22881206C>G,Substitution,Missense IGLV3-1 C52W,IGLV3-1,bone marrow
+chr14:g.106723746T>G,Substitution,Synonymous IGHV2-70 P62P,IGHV2-70,bone marrow
+chr14:g.106770811T>A,Substitution,Missense IGHV2-70 T42S,IGHV2-70,bone marrow
+chr4:g.183318496A>T,Substitution,3-prime UTR WWC2,UTR,bone marrow
+chr14:g.106770652A>G,Substitution,Missense IGHV2-70 S95P,IGHV2-70,bone marrow
+chr13:g.72772226T>A,Substitution,Missense DIS3 D479V,DIS3,bone marrow
+chr14:g.106770646T>G,Substitution,Missense IGHV2-70 N97H,IGHV2-70,bone marrow
+chr14:g.106770647T>C,Substitution,Synonymous IGHV2-70 K96K,IGHV2-70,bone marrow
+chr9:g.129810346T>G,Substitution,3-prime UTR TOR1B,UTR,bone marrow
+chr3:g.185152807G>A,Substitution,Missense C3orf70 S6L,C3orf70,bone marrow
+chr14:g.106723667T>C,Substitution,Missense IGHV2-70 T89A,IGHV2-70,bone marrow
+chr17:g.64503981delACAG,Deletion,Splice Donor DDX5 X147_splice,DDX5,bone marrow
+chr7:g.44829601A>G,Substitution,Downstream Gene H2AFV,Gene,bone marrow
+chr12:g.122021401G>A,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr6:g.26156633G>C,Substitution,Missense HIST1H1E K81N,HIST1H1E,bone marrow
+chr6:g.157673531A>T,Substitution,3-prime UTR ZDHHC14,UTR,bone marrow
+chr11:g.47400988C>T,Substitution,Non Coding Transcript Exon MIR4487,Exon,bone marrow
+chr22:g.22881264C>T,Substitution,Missense IGLV3-1 R72W,IGLV3-1,bone marrow
+chr14:g.105863818G>C,Substitution,Synonymous IGHM S145S,IGHM,bone marrow
+chr14:g.106851342C>T,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr20:g.44758168C>G,Substitution,Missense RIMS4 V86L,RIMS4,bone marrow
+chr14:g.106723629A>C,Substitution,Synonymous IGHV2-70 L101L,IGHV2-70,bone marrow
+chr14:g.106770702T>G,Substitution,Missense IGHV2-70 K78T,IGHV2-70,bone marrow
+chr22:g.22881344T>C,Substitution,Synonymous IGLV3-1 A98A,IGLV3-1,bone marrow
+chr14:g.106770871T>C,Substitution,Missense IGHV2-70 T22A,IGHV2-70,bone marrow
+chr14:g.106723597G>A,Substitution,Missense IGHV2-70 A112V,IGHV2-70,bone marrow
+chr2:g.96145103C>G,Substitution,Missense DUSP2 E84D,DUSP2,bone marrow
+chr14:g.106770700A>G,Substitution,Missense IGHV2-70 Y79H,IGHV2-70,bone marrow
+chr1:g.230838516A>T,Substitution,3-prime UTR C1orf198,UTR,bone marrow
+chr17:g.45290587T>A,Substitution,Synonymous MAP3K14 G53G,MAP3K14,bone marrow
+chr14:g.105863280T>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106723723G>A,Substitution,Missense IGHV2-70 A70V,IGHV2-70,bone marrow
+chr14:g.106723715C>G,Substitution,Missense IGHV2-70 D73H,IGHV2-70,bone marrow
+chr14:g.106770860C>G,Substitution,Missense IGHV2-70 E25D,IGHV2-70,bone marrow
+chr16:g.29666554G>A,Substitution,3-prime UTR SPN,UTR,bone marrow
+chr14:g.106770840T>C,Substitution,Missense IGHV2-70 K32R,IGHV2-70,bone marrow
+chr5:g.58972011G>A,Substitution,3-prime UTR PDE4D,UTR,bone marrow
+chr8:g.42306376A>G,Substitution,Missense IKBKB K171E,IKBKB,bone marrow
+chr14:g.106723593C>T,Substitution,Synonymous IGHV2-70 T113T,IGHV2-70,bone marrow
+chr14:g.105863248T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr21:g.21543014A>T,Substitution,3-prime UTR NCAM2,UTR,bone marrow
+chr2:g.88886004C>G,Substitution,Missense IGKV4-1 L72V,IGKV4-1,bone marrow
+chr14:g.106770718C>G,Substitution,Missense IGHV2-70 D73H,IGHV2-70,bone marrow
+chr14:g.106359995C>T,Substitution,Missense IGHV3-33 S50N,IGHV3-33,bone marrow
+chr22:g.22881302C>T,Substitution,Synonymous IGLV3-1 N84N,IGLV3-1,bone marrow
+chr5:g.146511059A>T,Substitution,3-prime UTR TCERG1,UTR,bone marrow
+chr14:g.106770812G>A,Substitution,Synonymous IGHV2-70 C41C,IGHV2-70,bone marrow
+chr22:g.22881352A>C,Substitution,Missense IGLV3-1 E101A,IGLV3-1,bone marrow
+chr14:g.105863258A>T,Substitution,Start Lost IGHJ6 Y1?,IGHJ6,bone marrow
+chr14:g.106770744T>C,Substitution,Missense IGHV2-70 K64R,IGHV2-70,bone marrow
+chr14:g.106770887C>T,Substitution,Stop Gained IGHV2-70 W16*,IGHV2-70,bone marrow
+chr14:g.106723789A>C,Substitution,Missense IGHV2-70 L48R,IGHV2-70,bone marrow
+chr3:g.111975245delTG,Deletion,3-prime UTR PHLDB2,UTR,bone marrow
+chr14:g.105863430C>G,Substitution,Intron IGHM,Intron,bone marrow
+chr11:g.65796032A>T,Substitution,3-prime UTR OVOL1,UTR,bone marrow
+chr14:g.105863258A>C,Substitution,Start Lost IGHJ6 Y1?,IGHJ6,bone marrow
+chr14:g.106770636A>G,Substitution,Missense IGHV2-70 V100A,IGHV2-70,bone marrow
+chr14:g.106770676T>C,Substitution,Missense IGHV2-70 R87G,IGHV2-70,bone marrow
+chr6:g.21232008T>G,Substitution,3-prime UTR CDKAL1,UTR,bone marrow
+chr14:g.106770882A>C,Substitution,Stop Gained IGHV2-70 L18*,IGHV2-70,bone marrow
+chr15:g.59372502G>C,Substitution,5-prime UTR MYO1E,UTR,bone marrow
+chr19:g.38466263C>T,Substitution,Missense RYR1 R1015C,RYR1,bone marrow
+chr12:g.65964300A>G,Substitution,,,bone marrow
+chr14:g.105863861T>G,Substitution,Start Lost IGHJ5 N1?,IGHJ5,bone marrow
+chr14:g.106723692G>A,Substitution,Synonymous IGHV2-70 Y80Y,IGHV2-70,bone marrow
+chr13:g.72774007C>T,Substitution,Missense DIS3 G347E,DIS3,bone marrow
+chr1:g.21483709T>G,Substitution,3-prime UTR NBPF3,UTR,bone marrow
+chr22:g.22881257T>G,Substitution,Missense IGLV3-1 D69E,IGLV3-1,bone marrow
+chr14:g.105863857C>G,Substitution,Missense IGHM W132C,IGHM,bone marrow
+chr22:g.22880794T>G,Substitution,Missense IGLV3-1 Y13D,IGLV3-1,bone marrow
+chr22:g.22881390G>A,Substitution,Missense IGLV3-1 A114T,IGLV3-1,bone marrow
+chr22:g.22881253A>G,Substitution,Missense IGLV3-1 Q68R,IGLV3-1,bone marrow
+chr2:g.105894022A>C,Substitution,3-prime UTR NCK2,UTR,bone marrow
+chr22:g.22881288T>C,Substitution,Missense IGLV3-1 F80L,IGLV3-1,bone marrow
+chr5:g.2747306C>T,Substitution,Intron IRX2,Intron,bone marrow
+chr22:g.22881382G>A,Substitution,Missense IGLV3-1 S111N,IGLV3-1,bone marrow
+chr13:g.24322389C>T,Substitution,3-prime UTR C1QTNF9,UTR,bone marrow
+chr14:g.106723631G>A,Substitution,Missense IGHV2-70 L101F,IGHV2-70,bone marrow
+chr14:g.106770781C>A,Substitution,Stop Gained IGHV2-70 G52*,IGHV2-70,bone marrow
+chr22:g.22881310A>G,Substitution,Missense IGLV3-1 N87S,IGLV3-1,bone marrow
+chr14:g.105863862T>G,Substitution,Start Lost IGHJ5 N1?,IGHJ5,bone marrow
+chr5:g.150657440A>T,Substitution,Downstream Gene SYNPO,Gene,bone marrow
+chr14:g.65093773T>A,Substitution,Missense MAX R36W,MAX,bone marrow
+chr21:g.34859486G>A,Substitution,Stop Gained RUNX1 R201*,RUNX1,bone marrow
+chr7:g.114923049G>A,Substitution,Missense MDFIC E115K,MDFIC,bone marrow
+chr8:g.116774418T>G,Substitution,3-prime UTR UTP23,UTR,bone marrow
+chr3:g.187076989A>T,Substitution,3-prime UTR ST6GAL1,UTR,bone marrow
+chr14:g.106723587G>A,Substitution,Synonymous IGHV2-70 Y115Y,IGHV2-70,bone marrow
+chr9:g.123103991G>A,Substitution,3-prime UTR RABGAP1,UTR,bone marrow
+chr14:g.105863266T>A,Substitution,Intron IGHG1,Intron,bone marrow
+chr9:g.96502856T>A,Substitution,3-prime UTR CDC14B,UTR,bone marrow
+chr14:g.106762104T>C,Substitution,Missense IGHV1-69-2 Y114C,IGHV1-69-2,bone marrow
+chr14:g.106851186C>T,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr15:g.32170425delG,Deletion,Downstream Gene CHRNA7,Gene,bone marrow
+chr12:g.122021260C>G,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr14:g.106770615T>A,Substitution,Missense IGHV2-70 D107V,IGHV2-70,bone marrow
+chr10:g.124620364A>C,Substitution,3-prime UTR FAM53B,UTR,bone marrow
+chr14:g.106359910G>A,Substitution,Synonymous IGHV3-33 Y78Y,IGHV3-33,bone marrow
+chr14:g.106770594T>C,Substitution,Missense IGHV2-70 Y114C,IGHV2-70,bone marrow
+chr14:g.106723709C>T,Substitution,Missense IGHV2-70 D75N,IGHV2-70,bone marrow
+chr6:g.31582195C>T,Substitution,Intron LTB,Intron,bone marrow
+chr12:g.10159313C>G,Substitution,3-prime UTR OLR1,UTR,bone marrow
+chr5:g.97030628G>C,Substitution,3-prime UTR LNPEP,UTR,bone marrow
+chr2:g.25240417C>T,Substitution,Missense DNMT3A R736H,DNMT3A,bone marrow
+chr14:g.105864605T>C,Substitution,Missense IGHJ3 M11V,IGHJ3,bone marrow
+chr14:g.106770577G>C,Substitution,Incomplete Terminal Codon IGHV2-70 X120X,IGHV2-70,bone marrow
+chr22:g.22881385G>T,Substitution,Missense IGLV3-1 S112I,IGLV3-1,bone marrow
+chr11:g.128918068delAC,Deletion,3-prime UTR KCNJ5,UTR,bone marrow
+chr14:g.106770699T>C,Substitution,Missense IGHV2-70 Y79C,IGHV2-70,bone marrow
+chr9:g.134032856A>T,Substitution,3-prime UTR BRD3,UTR,bone marrow
+chr14:g.106851126T>G,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr2:g.88886152C>T,Substitution,Missense IGKV4-1 P121L,IGKV4-1,bone marrow
+chr14:g.105863265A>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106770630G>T,Substitution,Missense IGHV2-70 T102K,IGHV2-70,bone marrow
+chr2:g.88860570T>C,Substitution,Missense IGKJ5 K13R,IGKJ5,bone marrow
+chr6:g.157677852A>G,Substitution,3-prime UTR ZDHHC14,UTR,bone marrow
+chr14:g.106723698T>A,Substitution,Missense IGHV2-70 K78N,IGHV2-70,bone marrow
+chr14:g.106770718C>T,Substitution,Missense IGHV2-70 D73N,IGHV2-70,bone marrow
+chr22:g.22888194C>T,Substitution,Synonymous IGLL5 S47S,IGLL5,bone marrow
+chr14:g.106770828G>A,Substitution,Missense IGHV2-70 T36I,IGHV2-70,bone marrow
+chr14:g.106723794G>A,Substitution,Synonymous IGHV2-70 F46F,IGHV2-70,bone marrow
+chr2:g.196989523_196989524insACAT,Insertion,3-prime UTR ANKRD44,UTR,bone marrow
+chr18:g.59295798delA,Deletion,3-prime UTR CPLX4,UTR,bone marrow
+chr2:g.197402636T>G,Substitution,Missense SF3B1 K666T,SF3B1,bone marrow
+chr6:g.31581899G>C,Substitution,Intron LTB,Intron,bone marrow
+chr7:g.26185559delAA,Deletion,Frameshift NFE2L3 K621Efs*7,NFE2L3,bone marrow
+chr14:g.106770754G>C,Substitution,Missense IGHV2-70 P61A,IGHV2-70,bone marrow
+chr6:g.31581936G>C,Substitution,Intron LTB,Intron,bone marrow
+chr14:g.106770632A>G,Substitution,Synonymous IGHV2-70 L101L,IGHV2-70,bone marrow
+chr14:g.106770833T>G,Substitution,Synonymous IGHV2-70 T34T,IGHV2-70,bone marrow
+chr2:g.88885956A>G,Substitution,Missense IGKV4-1 K56E,IGKV4-1,bone marrow
+chr14:g.106723588T>A,Substitution,Missense IGHV2-70 Y115F,IGHV2-70,bone marrow
+chr22:g.22881364A>T,Substitution,Missense IGLV3-1 Y105F,IGLV3-1,bone marrow
+chr14:g.106770577G>T,Substitution,Incomplete Terminal Codon IGHV2-70 X120X,IGHV2-70,bone marrow
+chr14:g.106770683C>T,Substitution,Synonymous IGHV2-70 L84L,IGHV2-70,bone marrow
+chr22:g.22881100C>A,Substitution,Missense IGLV3-1 S17Y,IGLV3-1,bone marrow
+chr14:g.105863444G>A,Substitution,Intron IGHM,Intron,bone marrow
+chr16:g.9757373T>A,Substitution,3-prime UTR GRIN2A,UTR,bone marrow
+chr14:g.106770716A>G,Substitution,Synonymous IGHV2-70 D73D,IGHV2-70,bone marrow
+chr14:g.106723574G>A,Substitution,Incomplete Terminal Codon IGHV2-70 X120X,IGHV2-70,bone marrow
+chr22:g.22881327A>G,Substitution,Missense IGLV3-1 I93V,IGLV3-1,bone marrow
+chr2:g.241815336A>C,Substitution,Intron NEU4,Intron,bone marrow
+chr12:g.122021411G>C,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr14:g.106770705T>G,Substitution,Missense IGHV2-70 D77A,IGHV2-70,bone marrow
+chr14:g.106770726G>A,Substitution,Missense IGHV2-70 A70V,IGHV2-70,bone marrow
+chr14:g.106723701A>G,Substitution,Synonymous IGHV2-70 D77D,IGHV2-70,bone marrow
+chr22:g.22881201G>A,Substitution,Missense IGLV3-1 A51T,IGLV3-1,bone marrow
+chr14:g.105863279A>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr9:g.98290277T>G,Substitution,3-prime UTR GABBR2,UTR,bone marrow
+chr14:g.106770698G>T,Substitution,Stop Gained IGHV2-70 Y79*,IGHV2-70,bone marrow
+chr14:g.106770857A>C,Substitution,Synonymous IGHV2-70 S26S,IGHV2-70,bone marrow
+chr14:g.105863814C>G,Substitution,Missense IGHM G147R,IGHM,bone marrow
+chr6:g.31581900C>T,Substitution,Intron LTB,Intron,bone marrow
+chr14:g.106851315C>T,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr14:g.106770639A>C,Substitution,Missense IGHV2-70 V99G,IGHV2-70,bone marrow
+chr22:g.22881172G>C,Substitution,Missense IGLV3-1 C41S,IGLV3-1,bone marrow
+chr14:g.106770774C>G,Substitution,Missense IGHV2-70 C54S,IGHV2-70,bone marrow
+chr14:g.105863835T>A,Substitution,Missense IGHM T140S,IGHM,bone marrow
+chr1:g.210233996A>T,Substitution,Intron SERTAD4,Intron,bone marrow
+chr14:g.106770779T>C,Substitution,Synonymous IGHV2-70 G52G,IGHV2-70,bone marrow
+chr14:g.106770578T>G,Substitution,Synonymous IGHV2-70 I119I,IGHV2-70,bone marrow
+chr22:g.22881172G>A,Substitution,Missense IGLV3-1 C41Y,IGLV3-1,bone marrow
+chr13:g.41442948A>G,Substitution,Upstream Gene AL354833.1,Gene,bone marrow
+chr6:g.394920G>T,Substitution,Missense IRF4 D106Y,IRF4,bone marrow
+chr22:g.22871807G>A,Substitution,Missense IGLV4-3 S48N,IGLV4-3,bone marrow
+chr14:g.106770680C>G,Substitution,Missense IGHV2-70 K85N,IGHV2-70,bone marrow
+chr14:g.106770832G>C,Substitution,Missense IGHV2-70 Q35E,IGHV2-70,bone marrow
+chr13:g.72761926C>G,Substitution,Missense DIS3 R780T,DIS3,bone marrow
+chr19:g.10230458T>C,Substitution,Intron S1PR2,Intron,bone marrow
+chr22:g.22881394A>G,Substitution,Missense IGLV3-1 H115R,IGLV3-1,bone marrow
+chr8:g.55773529G>A,Substitution,5-prime UTR TGS1,UTR,bone marrow
+chr12:g.104350242delAC,Deletion,3-prime UTR TXNRD1,UTR,bone marrow
+chrX:g.21857997G>A,Substitution,3-prime UTR YY2,UTR,bone marrow
+chr14:g.106770978A>G,Substitution,Missense IGHV2-70 S15P,IGHV2-70,bone marrow
+chr14:g.106723878T>C,Substitution,Synonymous IGHV2-70 L18L,IGHV2-70,bone marrow
+chr11:g.102231831delT,Deletion,3-prime UTR YAP1,UTR,bone marrow
+chr21:g.34859495C>T,Substitution,Missense RUNX1 D198N,RUNX1,bone marrow
+chr9:g.20342836A>G,Substitution,3-prime UTR MLLT3,UTR,bone marrow
+chr6:g.31582004C>G,Substitution,Intron LTB,Intron,bone marrow
+chr14:g.106723694A>G,Substitution,Missense IGHV2-70 Y80H,IGHV2-70,bone marrow
+chr14:g.105863820A>G,Substitution,Missense IGHM S145P,IGHM,bone marrow
+chr15:g.81182678delT,Deletion,,,bone marrow
+chr14:g.106770682T>G,Substitution,Missense IGHV2-70 K85Q,IGHV2-70,bone marrow
+chr14:g.106770591T>A,Substitution,Missense IGHV2-70 Y115F,IGHV2-70,bone marrow
+chr14:g.106723631G>C,Substitution,Missense IGHV2-70 L101V,IGHV2-70,bone marrow
+chr6:g.31581955T>C,Substitution,Intron LTB,Intron,bone marrow
+chr12:g.113462857G>C,Substitution,3-prime UTR LHX5,UTR,bone marrow
+chr14:g.106770804G>A,Substitution,Missense IGHV2-70 S44F,IGHV2-70,bone marrow
+chr4:g.1801837C>T,Substitution,Missense FGFR3 R248C,FGFR3,bone marrow
+chr7:g.65957870G>T,Substitution,Downstream Gene VKORC1L1,Gene,bone marrow
+chr17:g.7501996G>A,Substitution,Missense POLR2A G816R,POLR2A,bone marrow
+chr14:g.105863255A>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106770667T>C,Substitution,Missense IGHV2-70 I90V,IGHV2-70,bone marrow
+chr22:g.22376367G>A,Substitution,Synonymous IGLV5-45 K77K,IGLV5-45,bone marrow
+chr14:g.106723785G>T,Substitution,Missense IGHV2-70 S49R,IGHV2-70,bone marrow
+chrX:g.12975732G>A,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chr7:g.140781611C>T,Substitution,Missense BRAF G466E,BRAF,bone marrow
+chr14:g.106770728A>G,Substitution,Synonymous IGHV2-70 L69L,IGHV2-70,bone marrow
+chr6:g.31581900C>G,Substitution,Intron LTB,Intron,bone marrow
+chr22:g.22881195A>T,Substitution,Stop Gained IGLV3-1 K49*,IGLV3-1,bone marrow
+chr6:g.26156698G>A,Substitution,Missense HIST1H1E G103D,HIST1H1E,bone marrow
+chr14:g.106770622T>A,Substitution,Missense IGHV2-70 N105Y,IGHV2-70,bone marrow
+chr14:g.106770689T>G,Substitution,Synonymous IGHV2-70 T82T,IGHV2-70,bone marrow
+chr14:g.105863430C>T,Substitution,Intron IGHM,Intron,bone marrow
+chr14:g.106770762A>C,Substitution,Missense IGHV2-70 I58S,IGHV2-70,bone marrow
+chr14:g.106770608C>T,Substitution,Synonymous IGHV2-70 V109V,IGHV2-70,bone marrow
+chr3:g.59751863T>C,Substitution,3-prime UTR FHIT,UTR,bone marrow
+chr14:g.106723807G>A,Substitution,Missense IGHV2-70 T42I,IGHV2-70,bone marrow
+chr3:g.72376921T>A,Substitution,3-prime UTR RYBP,UTR,bone marrow
+chr22:g.22888214C>T,Substitution,Missense IGLL5 A54V,IGLL5,bone marrow
+chr14:g.105863198C>G,Substitution,Intron IGHG1,Intron,bone marrow
+chr16:g.85648683_85648684insC,Insertion,Frameshift GSE1 V123Rfs*17,GSE1,bone marrow
+chr8:g.11422375T>G,Substitution,3-prime UTR FAM167A,UTR,bone marrow
+chr14:g.106770669G>C,Substitution,Missense IGHV2-70 T89S,IGHV2-70,bone marrow
+chr14:g.105863236T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.106723702T>C,Substitution,Missense IGHV2-70 D77G,IGHV2-70,bone marrow
+chr12:g.122020995C>G,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr4:g.1804392G>A,Substitution,Missense FGFR3 G382R,FGFR3,bone marrow
+chr14:g.106770844C>T,Substitution,Missense IGHV2-70 V31M,IGHV2-70,bone marrow
+chr14:g.106723695G>C,Substitution,Missense IGHV2-70 F79L,IGHV2-70,bone marrow
+chr14:g.105863855A>G,Substitution,Missense IGHM F133S,IGHM,bone marrow
+chr11:g.32606014T>A,Substitution,3-prime UTR EIF3M,UTR,bone marrow
+chr12:g.53213560G>A,Substitution,Synonymous RARG L318L,RARG,bone marrow
+chr22:g.22881384A>G,Substitution,Missense IGLV3-1 S112G,IGLV3-1,bone marrow
+chr14:g.105863814C>T,Substitution,Missense IGHM G147R,IGHM,bone marrow
+chrX:g.154016640T>G,Substitution,Missense IRAK1 N345H,IRAK1,bone marrow
+chr14:g.65078030G>A,Substitution,Missense MAX R60W,MAX,bone marrow
+chr14:g.59371110A>C,Substitution,3-prime UTR DAAM1,UTR,bone marrow
+chr14:g.106762207C>T,Substitution,Missense IGHV1-69-2 A80T,IGHV1-69-2,bone marrow
+chr14:g.106723699T>G,Substitution,Missense IGHV2-70 K78T,IGHV2-70,bone marrow
+chr16:g.79594428A>T,Substitution,3-prime UTR MAF,UTR,bone marrow
+chr22:g.22887958C>T,Substitution,5-prime UTR IGLL5,UTR,bone marrow
+chr14:g.106770860C>T,Substitution,Synonymous IGHV2-70 E25E,IGHV2-70,bone marrow
+chr14:g.105863273A>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr2:g.203434062A>C,Substitution,3-prime UTR ABI2,UTR,bone marrow
+chr2:g.28801447A>T,Substitution,3-prime UTR PPP1CB,UTR,bone marrow
+chr22:g.22881097G>C,Substitution,Missense IGLV3-1 G16A,IGLV3-1,bone marrow
+chr22:g.22881240C>A,Substitution,Missense IGLV3-1 L64M,IGLV3-1,bone marrow
+chr14:g.105864236T>C,Substitution,Intron IGHG3,Intron,bone marrow
+chr14:g.105863261C>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr1:g.48297164A>G,Substitution,3-prime UTR SPATA6,UTR,bone marrow
+chr14:g.106723691T>C,Substitution,Missense IGHV2-70 S81G,IGHV2-70,bone marrow
+chr14:g.106770843A>C,Substitution,Missense IGHV2-70 V31G,IGHV2-70,bone marrow
+chr14:g.106723718T>G,Substitution,Missense IGHV2-70 I72L,IGHV2-70,bone marrow
+chr14:g.106762216C>T,Substitution,Missense IGHV1-69-2 A77T,IGHV1-69-2,bone marrow
+chr1:g.12510556C>T,Substitution,3-prime UTR VPS13D,UTR,bone marrow
+chr5:g.150657436A>T,Substitution,Downstream Gene SYNPO,Gene,bone marrow
+chr2:g.96144977G>C,Substitution,Stop Gained DUSP2 Y126*,DUSP2,bone marrow
+chr14:g.106770590G>T,Substitution,Stop Gained IGHV2-70 Y115*,IGHV2-70,bone marrow
+chr8:g.87872516A>G,Substitution,3-prime UTR DCAF4L2,UTR,bone marrow
+chr22:g.22901169G>A,Substitution,Synonymous IGLC2 K65K,IGLC2,bone marrow
+chr14:g.106762295G>C,Substitution,Missense IGHV1-69-2 S50R,IGHV1-69-2,bone marrow
+chr2:g.5698042A>T,Substitution,3-prime UTR SOX11,UTR,bone marrow
+chr8:g.87872516delAG,Deletion,3-prime UTR DCAF4L2,UTR,bone marrow
+chr13:g.72771842C>A,Substitution,Missense DIS3 D520Y,DIS3,bone marrow
+chr2:g.88885973G>A,Substitution,Stop Gained IGKV4-1 W61*,IGKV4-1,bone marrow
+chr14:g.105863836T>C,Substitution,Synonymous IGHM G139G,IGHM,bone marrow
+chr22:g.22887955G>A,Substitution,5-prime UTR IGLL5,UTR,bone marrow
+chr14:g.106770850C>T,Substitution,Missense IGHV2-70 A29T,IGHV2-70,bone marrow
+chr1:g.117623250delAA,Deletion,Frameshift FAM46C K128Nfs*22,FAM46C,bone marrow
+chr3:g.32891948A>T,Substitution,3-prime UTR TRIM71,UTR,bone marrow
+chr13:g.41442947C>G,Substitution,Upstream Gene AL354833.1,Gene,bone marrow
+chr19:g.51329133T>G,Substitution,3-prime UTR IGLON5,UTR,bone marrow
+chr14:g.106723605C>T,Substitution,Synonymous IGHV2-70 V109V,IGHV2-70,bone marrow
+chr14:g.106770846A>G,Substitution,Missense IGHV2-70 L30P,IGHV2-70,bone marrow
+chr22:g.22881135G>A,Substitution,Missense IGLV3-1 V29M,IGLV3-1,bone marrow
+chr15:g.59372502G>A,Substitution,5-prime UTR MYO1E,UTR,bone marrow
+chr14:g.106770687G>C,Substitution,Missense IGHV2-70 S83C,IGHV2-70,bone marrow
+chr4:g.79903371T>A,Substitution,,,bone marrow
+chr14:g.106770839T>G,Substitution,Missense IGHV2-70 K32N,IGHV2-70,bone marrow
+chr14:g.106851258C>T,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr22:g.22881222C>G,Substitution,Missense IGLV3-1 P58A,IGLV3-1,bone marrow
+chr14:g.106851321A>C,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr14:g.105863227C>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr8:g.2937451A>C,Substitution,Downstream Gene CSMD1,Gene,bone marrow
+chr14:g.106770796A>C,Substitution,Missense IGHV2-70 S47A,IGHV2-70,bone marrow
+chr5:g.154817033delC,Deletion,3-prime UTR LARP1,UTR,bone marrow
+chr14:g.106770765C>G,Substitution,Missense IGHV2-70 W57S,IGHV2-70,bone marrow
+chr14:g.106723781T>G,Substitution,Missense IGHV2-70 S51R,IGHV2-70,bone marrow
+chr22:g.22881183A>C,Substitution,Missense IGLV3-1 K45Q,IGLV3-1,bone marrow
+chr14:g.106770870G>A,Substitution,Missense IGHV2-70 T22I,IGHV2-70,bone marrow
+chr12:g.25225713T>A,Substitution,Missense KRAS K117N,KRAS,bone marrow
+chr22:g.22881250A>G,Substitution,Missense IGLV3-1 Y67C,IGLV3-1,bone marrow
+chr14:g.105863252A>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr22:g.22881168A>G,Substitution,Missense IGLV3-1 T40A,IGLV3-1,bone marrow
+chr14:g.106723713A>G,Substitution,Synonymous IGHV2-70 D73D,IGHV2-70,bone marrow
+chr13:g.72761699G>A,Substitution,Missense DIS3 R820W,DIS3,bone marrow
+chr14:g.106770851A>G,Substitution,Synonymous IGHV2-70 P28P,IGHV2-70,bone marrow
+chr14:g.106770621T>C,Substitution,Missense IGHV2-70 N105S,IGHV2-70,bone marrow
+chr14:g.106723857C>G,Substitution,Missense IGHV2-70 E25D,IGHV2-70,bone marrow
+chr1:g.160087895A>T,Substitution,3-prime UTR KCNJ9,UTR,bone marrow
+chr14:g.106851192G>A,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr6:g.106667964delAAG,Deletion,3-prime UTR QRSL1,UTR,bone marrow
+chr2:g.88947589T>A,Substitution,Missense IGKV1-5 K21N,IGKV1-5,bone marrow
+chr14:g.106770625T>C,Substitution,Missense IGHV2-70 T104A,IGHV2-70,bone marrow
+chr12:g.122021492C>T,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr12:g.122021491A>C,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr22:g.22881340A>C,Substitution,Missense IGLV3-1 Q97P,IGLV3-1,bone marrow
+chr14:g.106770590G>A,Substitution,Synonymous IGHV2-70 Y115Y,IGHV2-70,bone marrow
+chr2:g.88886149C>T,Substitution,Missense IGKV4-1 T120I,IGKV4-1,bone marrow
+chr9:g.98288547G>T,Substitution,3-prime UTR GABBR2,UTR,bone marrow
+chr2:g.88861525G>A,Substitution,Intron IGKC,Intron,bone marrow
+chr14:g.106723635C>T,Substitution,Synonymous IGHV2-70 V99V,IGHV2-70,bone marrow
+chr6:g.31582000C>T,Substitution,Intron LTB,Intron,bone marrow
+chr14:g.106770691T>G,Substitution,Missense IGHV2-70 T82P,IGHV2-70,bone marrow
+chr22:g.22881383C>T,Substitution,Synonymous IGLV3-1 S111S,IGLV3-1,bone marrow
+chr14:g.106770690G>A,Substitution,Missense IGHV2-70 T82I,IGHV2-70,bone marrow
+chr19:g.17838299C>T,Substitution,Missense JAK3 M511I,JAK3,bone marrow
+chr12:g.92145428C>T,Substitution,Synonymous BTG1 Q36Q,BTG1,bone marrow
+chr22:g.22031308G>A,Substitution,Synonymous IGLV4-69 R65R,IGLV4-69,bone marrow
+chr22:g.22888168C>G,Substitution,Missense IGLL5 L39V,IGLL5,bone marrow
+chr14:g.106770768C>A,Substitution,Missense IGHV2-70 S56I,IGHV2-70,bone marrow
+chr14:g.95713954G>A,Substitution,Missense TCL1A T38I,TCL1A,bone marrow
+chr22:g.22881180G>A,Substitution,Missense IGLV3-1 D44N,IGLV3-1,bone marrow
+chr14:g.106770716A>C,Substitution,Missense IGHV2-70 D73E,IGHV2-70,bone marrow
+chr14:g.106851318G>A,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr14:g.106770826G>A,Substitution,Missense IGHV2-70 L37F,IGHV2-70,bone marrow
+chr2:g.88885972G>A,Substitution,Stop Gained IGKV4-1 W61*,IGKV4-1,bone marrow
+chr14:g.106723758G>A,Substitution,Synonymous IGHV2-70 I58I,IGHV2-70,bone marrow
+chr14:g.105863852T>G,Substitution,Missense IGHM D134A,IGHM,bone marrow
+chr14:g.106770717T>C,Substitution,Missense IGHV2-70 D73G,IGHV2-70,bone marrow
+chr2:g.88885972G>C,Substitution,Missense IGKV4-1 W61S,IGKV4-1,bone marrow
+chr22:g.22881257T>C,Substitution,Synonymous IGLV3-1 D69D,IGLV3-1,bone marrow
+chr22:g.22888248C>T,Substitution,Synonymous IGLL5 S65S,IGLL5,bone marrow
+chr19:g.36141152C>T,Substitution,Synonymous CAPNS1 G47G,CAPNS1,bone marrow
+chr11:g.112083198delTA,Deletion,3-prime UTR C11orf57,UTR,bone marrow
+chr20:g.18488973A>G,Substitution,3-prime UTR RBBP9,UTR,bone marrow
+chr22:g.22881345A>G,Substitution,Missense IGLV3-1 M99V,IGLV3-1,bone marrow
+chr4:g.105241952delTTC,Deletion,Intron TET2,Intron,bone marrow
+chr14:g.106770628T>A,Substitution,Missense IGHV2-70 M103L,IGHV2-70,bone marrow
+chr2:g.88885973G>C,Substitution,Missense IGKV4-1 W61C,IGKV4-1,bone marrow
+chr2:g.37098367T>G,Substitution,3-prime UTR GPATCH11,UTR,bone marrow
+chr6:g.18467653delA,Deletion,3-prime UTR RNF144B,UTR,bone marrow
+chr22:g.22881195A>C,Substitution,Missense IGLV3-1 K49Q,IGLV3-1,bone marrow
+chr22:g.22888137G>A,Substitution,Synonymous IGLL5 L28L,IGLL5,bone marrow
+chr14:g.106850964T>C,Substitution,Mature Mi RNA MIR5195,RNA,bone marrow
+chr5:g.32709414T>C,Substitution,Upstream Gene NPR3,Gene,bone marrow
+chr14:g.106770619T>A,Substitution,Missense IGHV2-70 M106L,IGHV2-70,bone marrow
+chr22:g.22376368C>T,Substitution,Stop Gained IGLV5-45 Q78*,IGLV5-45,bone marrow
+chr11:g.62593756T>C,Substitution,3-prime UTR MTA2,UTR,bone marrow
+chr2:g.241040154C>T,Substitution,Synonymous SNED1 C375C,SNED1,bone marrow
+chr9:g.123103997A>G,Substitution,3-prime UTR RABGAP1,UTR,bone marrow
+chr17:g.76736877G>A,Substitution,Missense SRSF2 P95L,SRSF2,bone marrow
+chr14:g.105863274T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr22:g.22881182T>C,Substitution,Synonymous IGLV3-1 D44D,IGLV3-1,bone marrow
+chr6:g.108260989C>T,Substitution,5-prime UTR SNX3,UTR,bone marrow
+chr11:g.89325908delTATG,Deletion,Downstream Gene NOX4,Gene,bone marrow
+chr14:g.106723671C>G,Substitution,Missense IGHV2-70 R87S,IGHV2-70,bone marrow
+chr5:g.138465701G>A,Substitution,5-prime UTR EGR1,UTR,bone marrow
+chr14:g.24311027C>T,Substitution,Synonymous LTB4R2 L121L,LTB4R2,bone marrow
+chr22:g.22881199A>T,Substitution,Missense IGLV3-1 Y50F,IGLV3-1,bone marrow
+chr3:g.134356215A>T,Substitution,3-prime UTR AMOTL2,UTR,bone marrow
+chr14:g.106770779T>G,Substitution,Synonymous IGHV2-70 G52G,IGHV2-70,bone marrow
+chr22:g.22881354G>A,Substitution,Missense IGLV3-1 A102T,IGLV3-1,bone marrow
+chr8:g.42306377A>T,Substitution,Missense IKBKB K171M,IKBKB,bone marrow
+chr9:g.97291605T>A,Substitution,Intron RP11-23J9.4,Intron,bone marrow
+chr22:g.22881199A>C,Substitution,Missense IGLV3-1 Y50S,IGLV3-1,bone marrow
+chr5:g.132257689C>G,Substitution,5-prime UTR PDLIM4,UTR,bone marrow
+chr22:g.22162471G>A,Substitution,Missense IGLV4-60 S51N,IGLV4-60,bone marrow
+chr15:g.59372555G>A,Substitution,5-prime UTR MYO1E,UTR,bone marrow
+chr8:g.127740427delTGT,Deletion,Inframe Deletion MYC V280del,MYC,bone marrow
+chr9:g.127980399G>A,Substitution,5-prime UTR FAM102A,UTR,bone marrow
+chr22:g.22881222C>T,Substitution,Missense IGLV3-1 P58S,IGLV3-1,bone marrow
+chr22:g.22881219A>C,Substitution,Missense IGLV3-1 K57Q,IGLV3-1,bone marrow
+chr14:g.106770707A>C,Substitution,Missense IGHV2-70 D76E,IGHV2-70,bone marrow
+chr14:g.106723751G>A,Substitution,Missense IGHV2-70 P61S,IGHV2-70,bone marrow
+chr14:g.106770845C>T,Substitution,Synonymous IGHV2-70 L30L,IGHV2-70,bone marrow
+chr11:g.108335039G>A,Substitution,Missense ATM G2694E,ATM,bone marrow
+chr3:g.188179471C>T,Substitution,Non Coding Transcript Exon FLJ42393,Exon,bone marrow
+chr14:g.106770811T>G,Substitution,Missense IGHV2-70 T42P,IGHV2-70,bone marrow
+chr9:g.76194126G>A,Substitution,Intron PCSK5,Intron,bone marrow
+chr20:g.35176847G>C,Substitution,3-prime UTR PROCR,UTR,bone marrow
+chrX:g.48458696T>C,Substitution,3-prime UTR SLC38A5,UTR,bone marrow
+chr8:g.75566041delA,Deletion,3-prime UTR HNF4G,UTR,bone marrow
+chr6:g.107869912delAAC,Deletion,3-prime UTR SEC63,UTR,bone marrow
+chr18:g.904972C>T,Substitution,Upstream Gene ADCYAP1,Gene,bone marrow
+chr14:g.106851123T>A,Substitution,Upstream Gene MIR5195,Gene,bone marrow
+chr14:g.106770645T>G,Substitution,Missense IGHV2-70 N97T,IGHV2-70,bone marrow
+chr12:g.27800359T>G,Substitution,3-prime UTR KLHL42,UTR,bone marrow
+chr17:g.1648846C>T,Substitution,Missense RILP E210K,RILP,bone marrow
+chr7:g.90227001C>T,Substitution,Stop Gained STEAP2 R175*,STEAP2,bone marrow
+chr10:g.102400673T>C,Substitution,Missense NFKB2 L606P,NFKB2,bone marrow
+chrX:g.24364810C>T,Substitution,Non Coding Transcript Exon SUPT20HL1,Exon,bone marrow
+chr14:g.106723667T>G,Substitution,Missense IGHV2-70 T89P,IGHV2-70,bone marrow
+chr1:g.3432007C>T,Substitution,Missense PRDM16 P1188L,PRDM16,bone marrow
+chr19:g.44792422G>C,Substitution,Missense CBLC E349Q,CBLC,bone marrow
+chrX:g.121049988delA,Deletion,3-prime UTR GLUD2,UTR,bone marrow
+chr7:g.117385712C>T,Substitution,Missense ASZ1 E180K,ASZ1,bone marrow
+chrX:g.44261283C>T,Substitution,Missense EFHC2 R133H,EFHC2,bone marrow
+chr6:g.27867278C>G,Substitution,Missense HIST1H1B K84N,HIST1H1B,bone marrow
+chr22:g.22881390G>C,Substitution,Missense IGLV3-1 A114P,IGLV3-1,bone marrow
+chr3:g.58123603G>A,Substitution,Missense FLNB V1213M,FLNB,bone marrow
+chr1:g.165445071C>T,Substitution,5-prime UTR RXRG,UTR,bone marrow
+chr14:g.105863281C>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr1:g.210464606G>A,Substitution,Missense HHAT A321T,HHAT,bone marrow
+chr6:g.7881052G>A,Substitution,3-prime UTR BMP6,UTR,bone marrow
+chr14:g.106373712T>C,Substitution,Missense IGHV4-34 K107R,IGHV4-34,bone marrow
+chr9:g.75060870C>A,Substitution,Downstream Gene NMRK1,Gene,bone marrow
+chr2:g.96145102G>C,Substitution,Missense DUSP2 L85V,DUSP2,bone marrow
+chr19:g.46693928A>G,Substitution,Missense PRKD2 L508P,PRKD2,bone marrow
+chr8:g.41655379G>A,Substitution,3-prime UTR ANK1,UTR,bone marrow
+chr22:g.39520749G>A,Substitution,5-prime UTR ATF4,UTR,bone marrow
+chr22:g.22713104C>G,Substitution,Missense IGLV3-21 N84K,IGLV3-21,bone marrow
+chr14:g.106373706C>G,Substitution,Missense IGHV4-34 S109T,IGHV4-34,bone marrow
+chr14:g.106770679T>G,Substitution,Missense IGHV2-70 T86P,IGHV2-70,bone marrow
+chr1:g.207479260C>T,Substitution,Missense CR2 S1031L,CR2,bone marrow
+chr9:g.27949744G>A,Substitution,Missense LINGO2 R310C,LINGO2,bone marrow
+chr14:g.105904525T>A,Substitution,Missense IGHM Y123F,IGHM,bone marrow
+chr11:g.63957210delATA,Deletion,3-prime UTR NAA40,UTR,bone marrow
+chr14:g.105863871G>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr6:g.123217405A>G,Substitution,,,bone marrow
+chr15:g.93207774A>C,Substitution,Non Coding Transcript Exon RP11-326A13.2,Exon,bone marrow
+chr16:g.68236217G>A,Substitution,5-prime UTR ESRP2,UTR,bone marrow
+chr16:g.21520216G>A,Substitution,Non Coding Transcript Exon SLC7A5P2,Exon,bone marrow
+chr2:g.88861234T>A,Substitution,Intron IGKC,Intron,bone marrow
+chr5:g.177307639G>A,Substitution,Synonymous MXD3 F190F,MXD3,bone marrow
+chrX:g.12975584G>A,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chr6:g.31581937C>G,Substitution,Intron LTB,Intron,bone marrow
+chr15:g.24676649C>T,Substitution,Missense NPAP1 A261V,NPAP1,bone marrow
+chr22:g.22881238T>A,Substitution,Missense IGLV3-1 V63E,IGLV3-1,bone marrow
+chr4:g.44293821C>T,Substitution,Intron KCTD8,Intron,bone marrow
+chr20:g.41028835A>G,Substitution,5-prime UTR TOP1,UTR,bone marrow
+chr22:g.22881255G>T,Substitution,Missense IGLV3-1 D69Y,IGLV3-1,bone marrow
+chrX:g.119925365C>A,Substitution,Missense NKAP R368L,NKAP,bone marrow
+chr14:g.106762378G>C,Substitution,Missense IGHV1-69-2 L23V,IGHV1-69-2,bone marrow
+chr14:g.106714718C>G,Substitution,Missense IGHV1-69 R106T,IGHV1-69,bone marrow
+chr12:g.4301367A>T,Substitution,3-prime UTR CCND2,UTR,bone marrow
+chr9:g.136899604C>T,Substitution,Stop Gained TRAF2 Q67*,TRAF2,bone marrow
+chr10:g.87864101delGGCT,Deletion,5-prime UTR PTEN,UTR,bone marrow
+chr12:g.18497637C>T,Substitution,Stop Gained PIK3C2G Q969*,PIK3C2G,bone marrow
+chr10:g.99377114C>T,Substitution,Missense CNNM1 R746C,CNNM1,bone marrow
+chr14:g.24141529G>A,Substitution,5-prime UTR EMC9,UTR,bone marrow
+chr14:g.106770659C>G,Substitution,Missense IGHV2-70 K92N,IGHV2-70,bone marrow
+chr8:g.76866808A>G,Substitution,3-prime UTR ZFHX4,UTR,bone marrow
+chr4:g.744624delCAAA,Deletion,Frameshift PCGF3 N134Kfs*21,PCGF3,bone marrow
+chr14:g.106770766A>G,Substitution,Missense IGHV2-70 W57R,IGHV2-70,bone marrow
+chr13:g.113323245_113323246insT,Insertion,3-prime UTR LAMP1,UTR,bone marrow
+chr12:g.121467365C>A,Substitution,Intron KDM2B,Intron,bone marrow
+chr6:g.154406607G>A,Substitution,Missense CNKSR3 P472L,CNKSR3,bone marrow
+chr14:g.106770875C>T,Substitution,Synonymous IGHV2-70 Q20Q,IGHV2-70,bone marrow
+chr14:g.105863216T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr22:g.46685078G>A,Substitution,3-prime UTR CERK,UTR,bone marrow
+chr22:g.22881196A>C,Substitution,Missense IGLV3-1 K49T,IGLV3-1,bone marrow
+chr22:g.22881111T>G,Substitution,Missense IGLV3-1 Y21D,IGLV3-1,bone marrow
+chr16:g.15104542T>A,Substitution,Downstream Gene PKD1P6,Gene,bone marrow
+chr6:g.26217357A>T,Substitution,Missense HIST1H2AE K128M,HIST1H2AE,bone marrow
+chr17:g.7674894G>A,Substitution,Stop Gained TP53 R213*,TP53,bone marrow
+chr4:g.188101098C>T,Substitution,Synonymous TRIML2 K96K,TRIML2,bone marrow
+chr14:g.105863253G>C,Substitution,Intron IGHG1,Intron,bone marrow
+chr7:g.4210112G>A,Substitution,Missense SDK1 G1830D,SDK1,bone marrow
+chr6:g.6266615G>A,Substitution,Stop Gained F13A1 R172*,F13A1,bone marrow
+chr6:g.31581740T>A,Substitution,Intron LTB,Intron,bone marrow
+chr17:g.44374672C>T,Substitution,Missense ITGA2B R977Q,ITGA2B,bone marrow
+chr14:g.106770881T>G,Substitution,Missense IGHV2-70 L18F,IGHV2-70,bone marrow
+chr1:g.117623806T>C,Substitution,Missense FAM46C V313A,FAM46C,bone marrow
+chr6:g.18467407_18467408insTG,Insertion,3-prime UTR RNF144B,UTR,bone marrow
+chr14:g.106723760T>C,Substitution,Missense IGHV2-70 I58V,IGHV2-70,bone marrow
+chr14:g.106723879A>T,Substitution,Stop Gained IGHV2-70 L18*,IGHV2-70,bone marrow
+chr12:g.122021570C>G,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr14:g.105864235G>A,Substitution,Intron IGHG3,Intron,bone marrow
+chr3:g.178844410_178844411insT,Insertion,3-prime UTR KCNMB2,UTR,bone marrow
+chr14:g.106770721T>G,Substitution,Missense IGHV2-70 I72L,IGHV2-70,bone marrow
+chr2:g.88861257A>G,Substitution,Intron IGKC,Intron,bone marrow
+chr22:g.22370054G>C,Substitution,Missense IGLV7-46 E106D,IGLV7-46,bone marrow
+chr17:g.27294167G>A,Substitution,5-prime UTR WSB1,UTR,bone marrow
+chr19:g.46697821A>T,Substitution,Missense PRKD2 V384E,PRKD2,bone marrow
+chr8:g.109574435G>C,Substitution,3-prime UTR SYBU,UTR,bone marrow
+chr14:g.106723700T>A,Substitution,Stop Gained IGHV2-70 K78*,IGHV2-70,bone marrow
+chr16:g.1207773G>A,Substitution,Missense CACNA1H D1023N,CACNA1H,bone marrow
+chr2:g.66572473delT,Deletion,3-prime UTR MEIS1,UTR,bone marrow
+chr17:g.41059417delT,Deletion,3-prime UTR KRTAP2-3,UTR,bone marrow
+chr7:g.65957485A>C,Substitution,Downstream Gene VKORC1L1,Gene,bone marrow
+chr1:g.2030316C>T,Substitution,3-prime UTR GABRD,UTR,bone marrow
+chr3:g.46577672C>T,Substitution,5-prime UTR TDGF1,UTR,bone marrow
+chr3:g.192798931G>C,Substitution,Missense MB21D2 Q311E,MB21D2,bone marrow
+chr2:g.207075364A>T,Substitution,3-prime UTR KLF7,UTR,bone marrow
+chr22:g.22881243G>A,Substitution,Missense IGLV3-1 V65I,IGLV3-1,bone marrow
+chr22:g.22881395C>T,Substitution,Synonymous IGLV3-1 H115H,IGLV3-1,bone marrow
+chr14:g.105863423T>G,Substitution,Intron IGHM,Intron,bone marrow
+chr11:g.128973678delA,Deletion,Intron ARHGAP32,Intron,bone marrow
+chr7:g.113877368delA,Deletion,3-prime UTR PPP1R3A,UTR,bone marrow
+chr14:g.106770822G>C,Substitution,Missense IGHV2-70 T38R,IGHV2-70,bone marrow
+chr6:g.35920995C>T,Substitution,Intron SRPK1,Intron,bone marrow
+chr14:g.102897369C>T,Substitution,Stop Gained TRAF3 R310*,TRAF3,bone marrow
+chr14:g.106723617G>A,Substitution,Synonymous IGHV2-70 N105N,IGHV2-70,bone marrow
+chr21:g.10452506A>G,Substitution,Intron BAGE2,Intron,bone marrow
+chr7:g.44829604A>G,Substitution,Downstream Gene H2AFV,Gene,bone marrow
+chr22:g.22162530C>G,Substitution,Missense IGLV4-60 L71V,IGLV4-60,bone marrow
+chr9:g.33048239G>A,Substitution,Missense SMU1 S437F,SMU1,bone marrow
+chr19:g.38466215C>T,Substitution,Missense RYR1 R999C,RYR1,bone marrow
+chr22:g.22871814C>T,Substitution,Synonymous IGLV4-3 Y50Y,IGLV4-3,bone marrow
+chr2:g.88860571T>C,Substitution,Missense IGKJ5 K13E,IGKJ5,bone marrow
+chr22:g.22887967C>T,Substitution,5-prime UTR IGLL5,UTR,bone marrow
+chr3:g.99798620G>A,Substitution,3-prime UTR COL8A1,UTR,bone marrow
+chr14:g.106770711T>G,Substitution,Missense IGHV2-70 D75A,IGHV2-70,bone marrow
+chr4:g.70988109A>T,Substitution,,,bone marrow
+chr6:g.70480965G>A,Substitution,Missense FAM135A V203M,FAM135A,bone marrow
+chr12:g.122021153G>A,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr7:g.100893646C>T,Substitution,Missense ACHE R196Q,ACHE,bone marrow
+chr1:g.3436687G>A,Substitution,3-prime UTR PRDM16,UTR,bone marrow
+chr14:g.105863825G>C,Substitution,Missense IGHM T143S,IGHM,bone marrow
+chr22:g.22881182T>G,Substitution,Missense IGLV3-1 D44E,IGLV3-1,bone marrow
+chr2:g.88885941T>G,Substitution,Missense IGKV4-1 Y51D,IGKV4-1,bone marrow
+chr14:g.106723851A>G,Substitution,Synonymous IGHV2-70 G27G,IGHV2-70,bone marrow
+chr19:g.8956190C>T,Substitution,Synonymous MUC16 L6860L,MUC16,bone marrow
+chr6:g.31582174G>A,Substitution,Intron LTB,Intron,bone marrow
+chr17:g.50835547T>C,Substitution,5-prime UTR WFIKKN2,UTR,bone marrow
+chr16:g.79599772C>G,Substitution,Missense MAF S44T,MAF,bone marrow
+chr6:g.30489563C>T,Substitution,Missense HLA-E S11L,HLA-E,bone marrow
+chr14:g.106770638C>T,Substitution,Synonymous IGHV2-70 V99V,IGHV2-70,bone marrow
+chr6:g.31581860C>T,Substitution,Splice Acceptor LTB X55_splice,LTB,bone marrow
+chr22:g.22881149A>C,Substitution,Synonymous IGLV3-1 P33P,IGLV3-1,bone marrow
+chr14:g.106723630A>G,Substitution,Missense IGHV2-70 L101P,IGHV2-70,bone marrow
+chr14:g.105904707A>G,Substitution,Missense IGHD3-9 L2S,IGHD3-9,bone marrow
+chr5:g.138465991G>A,Substitution,Missense EGR1 S77N,EGR1,bone marrow
+chr22:g.22888176A>G,Substitution,Synonymous IGLL5 P41P,IGLL5,bone marrow
+chr19:g.45591314G>A,Substitution,Missense GPR4 R185W,GPR4,bone marrow
+chr8:g.3142499C>T,Substitution,Synonymous CSMD1 S2070S,CSMD1,bone marrow
+chr19:g.53942055T>G,Substitution,Missense CACNG7 V197G,CACNG7,bone marrow
+chr12:g.122021407A>T,Substitution,5-prime UTR BCL7A,UTR,bone marrow
+chr15:g.59372640C>G,Substitution,5-prime UTR MYO1E,UTR,bone marrow
+chr22:g.22687184A>G,Substitution,Missense IGLV3-25 S84G,IGLV3-25,bone marrow
+chr19:g.12583464C>T,Substitution,Synonymous ZNF490 V85V,ZNF490,bone marrow
+chr14:g.106723714T>C,Substitution,Missense IGHV2-70 D73G,IGHV2-70,bone marrow
+chr14:g.105863815T>G,Substitution,Splice Region IGHM S146S,IGHM,bone marrow
+chr6:g.31582068G>C,Substitution,Intron LTB,Intron,bone marrow
+chr22:g.22881247T>G,Substitution,Missense IGLV3-1 I66S,IGLV3-1,bone marrow
+chr22:g.22901225G>C,Substitution,Missense IGLC2 S84T,IGLC2,bone marrow
+chr5:g.138465864C>T,Substitution,Synonymous EGR1 L35L,EGR1,bone marrow
+chr22:g.22881262A>T,Substitution,Missense IGLV3-1 K71M,IGLV3-1,bone marrow
+chr7:g.155800943G>A,Substitution,3-prime UTR SHH,UTR,bone marrow
+chr14:g.50668310G>A,Substitution,5-prime UTR SAV1,UTR,bone marrow
+chr7:g.138879642G>A,Substitution,Missense KIAA1549 S1414L,KIAA1549,bone marrow
+chr14:g.106770645T>C,Substitution,Missense IGHV2-70 N97S,IGHV2-70,bone marrow
+chr15:g.20439358T>C,Substitution,Intron HERC2P3,Intron,bone marrow
+chr2:g.162039132C>A,Substitution,Missense DPP4 R140M,DPP4,bone marrow
+chr2:g.178530706C>T,Substitution,Synonymous TTN L35303L,TTN,bone marrow
+chr22:g.22031344C>T,Substitution,Synonymous IGLV4-69 S77S,IGLV4-69,bone marrow
+chr1:g.114713900A>T,Substitution,Missense NRAS Y64N,NRAS,bone marrow
+chr2:g.36846041A>T,Substitution,3-prime UTR STRN,UTR,bone marrow
+chr14:g.106723576A>C,Substitution,Missense IGHV2-70 I119R,IGHV2-70,bone marrow
+chr15:g.92618841A>T,Substitution,3-prime UTR FAM174B,UTR,bone marrow
+chr7:g.83366804_83366805insT,Insertion,3-prime UTR SEMA3E,UTR,bone marrow
+chr22:g.22759061G>A,Substitution,Missense IGLV2-14 M68I,IGLV2-14,bone marrow
+chr17:g.12768896A>T,Substitution,3-prime UTR MYOCD,UTR,bone marrow
+chr14:g.54567669A>T,Substitution,5-prime UTR SAMD4A,UTR,bone marrow
+chr1:g.156293008A>T,Substitution,3-prime UTR GLMP,UTR,bone marrow
+chr22:g.22881214A>T,Substitution,Missense IGLV3-1 Q55L,IGLV3-1,bone marrow
+chr3:g.86943013G>C,Substitution,3-prime UTR VGLL3,UTR,bone marrow
+chr14:g.63374689G>T,Substitution,3-prime UTR PPP2R5E,UTR,bone marrow
+chr1:g.3813025A>G,Substitution,3-prime UTR CEP104,UTR,bone marrow
+chr1:g.117623088T>C,Substitution,Missense FAM46C S74P,FAM46C,bone marrow
+chr7:g.96121766C>T,Substitution,Intron SLC25A13,Intron,bone marrow
+chr10:g.113783240_113783241insAC,Insertion,,,bone marrow
+chr14:g.105863212A>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr6:g.101799756C>T,Substitution,Missense GRIK2 R354C,GRIK2,bone marrow
+chr14:g.64226189A>T,Substitution,3-prime UTR SYNE2,UTR,bone marrow
+chr19:g.15680449C>T,Substitution,Missense CYP4F12 T152M,CYP4F12,bone marrow
+chr14:g.106770813C>A,Substitution,Missense IGHV2-70 C41F,IGHV2-70,bone marrow
+chr22:g.22881111T>A,Substitution,Missense IGLV3-1 Y21N,IGLV3-1,bone marrow
+chr22:g.22881354G>C,Substitution,Missense IGLV3-1 A102P,IGLV3-1,bone marrow
+chr1:g.160098625C>T,Substitution,5-prime UTR IGSF8,UTR,bone marrow
+chr7:g.26212584G>T,Substitution,3-prime UTR CBX3,UTR,bone marrow
+chr14:g.106770709C>A,Substitution,Missense IGHV2-70 D76Y,IGHV2-70,bone marrow
+chr16:g.27464650C>T,Substitution,Missense GTF3C1 E1848K,GTF3C1,bone marrow
+chr17:g.1300329G>A,Substitution,3-prime UTR TUSC5,UTR,bone marrow
+chr14:g.106723707A>G,Substitution,Synonymous IGHV2-70 D75D,IGHV2-70,bone marrow
+chr17:g.49599517delTG,Deletion,3-prime UTR SPOP,UTR,bone marrow
+chr5:g.161292841C>T,Substitution,3-prime UTR GABRB2,UTR,bone marrow
+chr5:g.54544612A>T,Substitution,,,bone marrow
+chr4:g.158254444T>G,Substitution,3-prime UTR TMEM144,UTR,bone marrow
+chr14:g.106770835T>C,Substitution,Missense IGHV2-70 T34A,IGHV2-70,bone marrow
+chr22:g.22381297G>C,Substitution,Missense IGLV1-44 E101D,IGLV1-44,bone marrow
+chr1:g.24357057delCA,Deletion,3-prime UTR STPG1,UTR,bone marrow
+chr17:g.7630328C>G,Substitution,Intron SHBG,Intron,bone marrow
+chr2:g.88886019G>A,Substitution,Missense IGKV4-1 A77T,IGKV4-1,bone marrow
+chr6:g.31581994G>A,Substitution,Intron LTB,Intron,bone marrow
+chr22:g.22881264C>G,Substitution,Missense IGLV3-1 R72G,IGLV3-1,bone marrow
+chr5:g.150657442A>T,Substitution,Downstream Gene SYNPO,Gene,bone marrow
+chr14:g.106770586C>T,Substitution,Missense IGHV2-70 A117T,IGHV2-70,bone marrow
+chr14:g.106723658T>C,Substitution,Missense IGHV2-70 K92E,IGHV2-70,bone marrow
+chr1:g.117623737delCTTAC,Deletion,Frameshift FAM46C Y291Sfs*6,FAM46C,bone marrow
+chr14:g.105864604A>C,Substitution,Missense IGHJ3 M11R,IGHJ3,bone marrow
+chr22:g.22881361A>T,Substitution,Missense IGLV3-1 Y104F,IGLV3-1,bone marrow
+chr22:g.22376310G>A,Substitution,Synonymous IGLV5-45 Q58Q,IGLV5-45,bone marrow
+chr22:g.22888201C>G,Substitution,Missense IGLL5 P50A,IGLL5,bone marrow
+chr22:g.22881128A>T,Substitution,Synonymous IGLV3-1 P26P,IGLV3-1,bone marrow
+chr6:g.99947870C>T,Substitution,Missense MCHR2 R95Q,MCHR2,bone marrow
+chr12:g.56101952G>A,Substitution,Missense ERBB3 R1309H,ERBB3,bone marrow
+chr4:g.1806162A>G,Substitution,Missense FGFR3 K652E,FGFR3,bone marrow
+chr6:g.31582014G>A,Substitution,Intron LTB,Intron,bone marrow
+chrX:g.12975842G>A,Substitution,5-prime UTR TMSB4X,UTR,bone marrow
+chrX:g.71171093A>T,Substitution,Downstream Gene NLGN3,Gene,bone marrow
+chr22:g.22404587G>C,Substitution,Non Coding Transcript Exon IGLV1-41,Exon,bone marrow
+chr4:g.75935996T>C,Substitution,Intron NAAA,Intron,bone marrow
+chr18:g.62384858G>A,Substitution,Missense TNFRSF11A A559T,TNFRSF11A,bone marrow
+chr11:g.119663965C>T,Substitution,3-prime UTR PVRL1,UTR,bone marrow
+chr5:g.17275351C>T,Substitution,Synonymous BASP1 A45A,BASP1,bone marrow
+chr22:g.22881101C>A,Substitution,Synonymous IGLV3-1 S17S,IGLV3-1,bone marrow
+chr19:g.57753902C>T,Substitution,Missense ZNF776 R258C,ZNF776,bone marrow
+chr14:g.106723669A>G,Substitution,Missense IGHV2-70 L88P,IGHV2-70,bone marrow
+chr7:g.81742696_81742697insA,Insertion,Intron HGF,Intron,bone marrow
+chr14:g.105863253G>T,Substitution,Intron IGHG1,Intron,bone marrow
+chr14:g.105863837C>T,Substitution,Missense IGHM G139E,IGHM,bone marrow
+chr21:g.33504314T>C,Substitution,Missense GART E948G,GART,bone marrow
+chr11:g.66042845C>T,Substitution,Missense GAL3ST3 E320K,GAL3ST3,bone marrow
+chr13:g.26687738G>T,Substitution,3-prime UTR WASF3,UTR,bone marrow
+chr14:g.106770810G>A,Substitution,Missense IGHV2-70 T42I,IGHV2-70,bone marrow
+chr8:g.37830816C>T,Substitution,Synonymous ADGRA2 N275N,ADGRA2,bone marrow
+chrX:g.67546608C>T,Substitution,Stop Gained AR Q488*,AR,bone marrow
+chrX:g.93710428_93710429insA,Insertion,3-prime UTR FAM133A,UTR,bone marrow
+chr22:g.22369891A>T,Substitution,Missense IGLV7-46 H52L,IGLV7-46,bone marrow
+chr14:g.106770642T>A,Substitution,Missense IGHV2-70 Q98L,IGHV2-70,bone marrow
+chr3:g.177038423C>T,Substitution,Missense TBL1XR1 D313N,TBL1XR1,bone marrow
+chr5:g.52955354T>C,Substitution,3-prime UTR ITGA1,UTR,bone marrow
+chr11:g.103209947_103209948insA,Insertion,Frameshift DYNC2H1 N2845Kfs*4,DYNC2H1,bone marrow
+chr14:g.106762191C>T,Substitution,Missense IGHV1-69-2 G85D,IGHV1-69-2,bone marrow
+chr14:g.105863870T>C,Substitution,Intron IGHG1,Intron,bone marrow
+chrX:g.51895210C>T,Substitution,Missense MAGED1 S124L,MAGED1,bone marrow
+chr14:g.106770684A>C,Substitution,Missense IGHV2-70 L84R,IGHV2-70,bone marrow
+chr8:g.127738699C>T,Substitution,Missense MYC S161L,MYC,bone marrow
+chr5:g.73446952T>C,Substitution,3-prime UTR FOXD1,UTR,bone marrow
+chr14:g.106723807G>C,Substitution,Missense IGHV2-70 T42S,IGHV2-70,bone marrow
+chr4:g.78871913C>T,Substitution,Stop Gained BMP2K Q525*,BMP2K,bone marrow
+chr3:g.13879961C>T,Substitution,5-prime UTR WNT7A,UTR,bone marrow
+chr7:g.31110142T>C,Substitution,3-prime UTR ADCYAP1R1,UTR,bone marrow
+chr2:g.88886003G>A,Substitution,Synonymous IGKV4-1 K71K,IGKV4-1,bone marrow
+chr22:g.22881210T>C,Substitution,Missense IGLV3-1 Y54H,IGLV3-1,bone marrow
+chr22:g.22881262A>C,Substitution,Missense IGLV3-1 K71T,IGLV3-1,bone marrow
+chr14:g.39350969C>T,Substitution,3-prime UTR CTAGE5,UTR,bone marrow
+chr19:g.5843997G>A,Substitution,Synonymous FUT3 Y281Y,FUT3,bone marrow
+chr2:g.9404896A>T,Substitution,3-prime UTR ASAP2,UTR,bone marrow
+chr14:g.105881549C>T,Substitution,Missense IGHD6-25 S3N,IGHD6-25,bone marrow
+chr22:g.22881231T>C,Substitution,Missense IGLV3-1 S61P,IGLV3-1,bone marrow
+chr11:g.125746645delT,Deletion,Intron PATE1,Intron,bone marrow
+chr12:g.113057886C>T,Substitution,5-prime UTR DTX1,UTR,bone marrow
+chrX:g.2815804C>T,Substitution,Downstream Gene XG,Gene,bone marrow
+chr14:g.105863420C>G,Substitution,Intron IGHM,Intron,bone marrow
+chr6:g.44151980C>T,Substitution,Missense TMEM63B S603L,TMEM63B,bone marrow
+chr5:g.80654760C>T,Substitution,Synonymous MSH3 L11L,MSH3,bone marrow
+chr14:g.105863280T>A,Substitution,Intron IGHG1,Intron,bone marrow
+chr1:g.117623225delC,Deletion,Frameshift FAM46C L120Cfs*5,FAM46C,bone marrow
+chr8:g.87872502A>T,Substitution,3-prime UTR DCAF4L2,UTR,bone marrow
+chr15:g.43287581C>T,Substitution,Missense TGM7 R216Q,TGM7,bone marrow
+chr14:g.106770737C>T,Substitution,Synonymous IGHV2-70 L66L,IGHV2-70,bone marrow
+chr6:g.26250212G>A,Substitution,Missense HIST1H3F R132C,HIST1H3F,bone marrow
+chr22:g.22881215G>T,Substitution,Missense IGLV3-1 Q55H,IGLV3-1,bone marrow
+chr14:g.105863438C>G,Substitution,Intron IGHM,Intron,bone marrow
+chr5:g.132487007G>C,Substitution,Stop Gained IRF1 S104*,IRF1,bone marrow
+chr8:g.89902637A>C,Substitution,5-prime UTR OSGIN2,UTR,bone marrow
+chr14:g.106770878G>C,Substitution,Synonymous IGHV2-70 S19S,IGHV2-70,bone marrow
+chr1:g.155217353A>G,Substitution,Downstream Gene MTX1,Gene,bone marrow
+chr11:g.20119194T>C,Substitution,Downstream Gene NAV2,Gene,bone marrow
+chr14:g.106762283G>C,Substitution,Missense IGHV1-69-2 S54R,IGHV1-69-2,bone marrow
+chr14:g.106723741T>C,Substitution,Missense IGHV2-70 K64R,IGHV2-70,bone marrow
+chr22:g.22376477A>G,Substitution,Missense IGLV5-45 Y114C,IGLV5-45,bone marrow
+chr5:g.138465863G>A,Substitution,Synonymous EGR1 K34K,EGR1,bone marrow
+chr17:g.51154159delC,Deletion,Intron NME1,Intron,bone marrow
+chr14:g.106762210A>G,Substitution,Missense IGHV1-69-2 Y79H,IGHV1-69-2,bone marrow
+chr14:g.106359824G>A,Substitution,Missense IGHV3-33 A107V,IGHV3-33,bone marrow
+chr17:g.7670700G>A,Substitution,Missense TP53 R337C,TP53,bone marrow
+chr2:g.230294309_230294310insA,Insertion,Frameshift SP140 R673Efs*9,SP140,bone marrow
+chr11:g.12943956T>A,Substitution,,,bone marrow
+chr14:g.102905497T>G,Substitution,Missense TRAF3 F474V,TRAF3,bone marrow
+chr6:g.31582119G>A,Substitution,Intron LTB,Intron,bone marrow
+chr6:g.31581869T>C,Substitution,Intron LTB,Intron,bone marrow
+chr17:g.12768897A>T,Substitution,3-prime UTR MYOCD,UTR,bone marrow
+chr6:g.81748276delT,Deletion,3-prime UTR FAM46A,UTR,bone marrow
+chr19:g.16185484G>A,Substitution,Synonymous FAM32A L14L,FAM32A,bone marrow
+chr14:g.106770627A>G,Substitution,Missense IGHV2-70 M103T,IGHV2-70,bone marrow
+chr5:g.38941325G>T,Substitution,3-prime UTR RICTOR,UTR,bone marrow
+chr13:g.39011273A>C,Substitution,3-prime UTR PROSER1,UTR,bone marrow
+chr14:g.105916840T>A,Substitution,Missense IGHD2-2 Y6F,IGHD2-2,bone marrow
+chrX:g.112630770_112630771insT,Insertion,3-prime UTR LHFPL1,UTR,bone marrow
+chr6:g.27824329G>A,Substitution,Missense HIST1H4J D69N,HIST1H4J,bone marrow
+chrX:g.71568011G>A,Substitution,Missense OGT R954Q,OGT,bone marrow
+chr15:g.39252194C>T,Substitution,Non Coding Transcript Exon C15orf54,Exon,bone marrow
+chr19:g.50858533C>T,Substitution,Stop Gained KLK3 Q190*,KLK3,bone marrow

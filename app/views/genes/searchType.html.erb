@@ -1,6 +1,12 @@
-<a href="/genes"><h3>NucleoDepot</h3></a>
-<h1>Search by Type Results:</h1>
-<form class="form-inline-my-2 my-lg-0" action="/searchInType"> <!--will this work?-->
+<a href="/genes"><h2>NucleoDepot</h2></a>
+<%form = ""%>
+<%@genes.each do |gene|%>
+   <%form = gene.form%>
+   <%break%>
+<%end%>
+<h1>Search by <%=form%> results:</h1>
+<a href="\searchType.csv?q=<%=form%>"><h3>Download CSV</h3></a>
+<form class="form-inline-my-2 my-lg-0" action="/searchID"> <!--will this work?-->
   <input class="form-control mr-sm-2" name="q" type="text" placeholder="Search by Gene" aria-label="Search">
   <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
 </form>
@@ -22,11 +28,6 @@
 
 <div></div>
 
-<%form = ""%>
-<%@genes.each do |gene|%>
-   <%form = gene.form%>
-   <%break%>
-<%end%>
 
 <%@images.each do |image|%>
   <%if image.form == form%>
@@ -42,8 +43,8 @@
 <ul>
 <%x=0%>
   <% @genes.each do |gene| %>
+    <%break if x>=1000%>
     <li>
-      <%break if x>=1000%>
         <%x+=1%>
       <a href="/genes/<%= gene.id %>"> <!--maybe put this stuff in an array and print it later-->
       <%=gene.identity%>
