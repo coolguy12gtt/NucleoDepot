@@ -8,7 +8,7 @@ Rails.application.load_tasks
 task :readCSV => :environment do 
 require 'csv'
 puts 'running...'
-CSV.foreach("megaGenes2.csv", headers: true) do |row|
+CSV.foreach("genes.csv", headers: true) do |row|
     Gene.create!(row.to_hash)
   end
 end
