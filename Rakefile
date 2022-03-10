@@ -17,7 +17,7 @@ end
 task :readMutationCSV => :environment do 
   require 'csv'
   puts 'running...'
-  CSV.foreach("mutations.csv", headers: true) do |row|
+  CSV.foreach("serverGenes2.csv", headers: true) do |row|
       Meutation.create!(row.to_hash)
     end
   end
