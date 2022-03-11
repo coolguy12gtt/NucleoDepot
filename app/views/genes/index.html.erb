@@ -27,7 +27,7 @@
   <button onmouseover="myFunction()" class="dropbtn">Cancer Type</button>
   <div id="myDropdown" class="dropdown-content">
     <% @genes.map { |g| g.form }.uniq.each do |gene| %>
-        <a href="/searchType?q=<%=form%>"><%=form%></a>
+        <a href="/searchType?q=<%=gene%>"><%=gene%></a>
     <%end%>
   </div>
 </div>
