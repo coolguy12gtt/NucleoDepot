@@ -59,8 +59,9 @@ Rails.application.configure do
   # Suppress logger output for asset requests.
   config.assets.quiet = true
 
-  # Allow requests from any domain
-  Rails.application.config.hosts = nil
+  Rails.application.configure do
+  config.hosts.clear
+end
 
   # Raises error for missing translations.
   # config.i18n.raise_on_missing_translations = true
