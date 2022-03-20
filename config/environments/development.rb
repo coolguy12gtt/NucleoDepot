@@ -59,7 +59,7 @@ Rails.application.configure do
   # Suppress logger output for asset requests.
   config.assets.quiet = true
 
-  config.hosts << "nucleodepot.herokuapp.com"
+  config.hosts << ".herokuapp.com"
   config.hosts << /application\.local/
 
   # Raises error for missing translations.
