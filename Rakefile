@@ -8,8 +8,13 @@ Rails.application.load_tasks
 task :readCSV => :environment do 
 require 'csv'
 puts 'running...'
-CSV.foreach("firstHalfGenes.csv", headers: true) do |row|
+x = 0
+CSV.foreach("secondHalfGenes.csv", headers: true) do |row|
     Gene.create!(row.to_hash)
+    x+=1
+    if x%10 == 0 
+      puts x
+    end
   end
 end
 
@@ -21,6 +26,16 @@ task :readMutationCSV => :environment do
       Meutation.create!(row.to_hash)
     end
   end
+
+
+task :readImagesCSV => :environment do
+  require 'csv'
+  puts 'running...'
+  CSV.foreach("images.csv", headers: true) do |row|
+      Image.create!(row.to_hash)
+    end
+  end
+
 
 
 task :updateDescriptions => :environment do
