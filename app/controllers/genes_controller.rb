@@ -39,4 +39,13 @@ class GenesController < ApplicationController
   def searchWeb
     @webs = Web.where("form LIKE ? ","%" + params[:q] + "%")
   end
+
+  def thx
+  end
+
+  def about
+  end
+
+  def references
+  end
 end

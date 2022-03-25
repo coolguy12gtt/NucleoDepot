@@ -38,14 +38,50 @@ task :readImagesCSV => :environment do
 
 
 
+task :readWebsCSV => :environment do
+  require 'csv'
+  puts 'running...'
+  CSV.foreach("webs.csv", headers: true) do |row|
+      Web.create!(row.to_hash)
+  end
+ end
+
+
+
+task :readDrugsCSV => :environment do
+  require 'csv'
+  puts 'running...'
+  CSV.foreach("drugs.csv", headers: true) do |row|
+      Drug.create!(row.to_hash)
+  end
+end
+
+task :integrateFrequencies => :environment do
+  require 'csv'
+  puts 'processing...'
+  frequencyTable = CSV.parse(File.read("frequencies.csv"), headers:true)
+  puts frequencyTable
+  forms = ["adrenal","bone marrow","bladder","brain","breast",
+  "cervix","colorectal","esophagus","head and neck","kidney",
+  "liver","lungs","ovary","pancreas","pleura","prostate","skin",
+  "soft tissue","stomach","thyroid",
+  "uterus","bile duct"]
+  x = 0
+  frequencyTable.each do |f|
+    x+=1
+    puts x
+    gene = Gene.find_by(form: f[3], identity: f[0])
+    if gene != nil
+      gene.cFrequency = f[1]
+      gene.gdcFrequency = f[2]
+      gene.save
+    end
+  end 
+end
+
 task :updateDescriptions => :environment do
   require 'csv'
   puts "Processing..."
-  #gene = Gene.find_by(identity: "KRAS")
-  #puts gene.identity
-  #gene.identity = "KRAS"
-  #gene.save
-  #puts gene.identity
 
   geneTable = CSV.parse(File.read("updatedDescriptions.csv"), headers: true)
   #puts geneTable[0][0]

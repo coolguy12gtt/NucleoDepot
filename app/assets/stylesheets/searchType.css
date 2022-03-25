@@ -1,0 +1,135 @@
+
+/*body {background-color: #d1faff;}*/
+
+/*.banner {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #b1f6ff; 
+    width: 100%; 
+}
+
+.banner-content {
+    width: 800px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    border: 1px solid #000;
+}
+
+.putInCenter {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+}*/
+
+.form-control2 {  /*class might need to be changed */
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.btn2 {  /*class might need to be changed */
+  width: 30%;
+  background-color: #2e5266;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Dropdown Button */
+.dropbtn2 {
+  background-color: #2e5266;
+  color: white;
+  padding: 4px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: auto;
+  width: 100%; /*this value will likely need tuning */
+}
+
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropbtn2:hover, .dropbtn:focus {
+  background-color: #2e4a66;
+}
+
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 4px 4px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #ddd}
+
+.show {display:block;}
+
+
+
+.graph {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.list_line_odd {
+  background-color: #6e8898;
+}
+
+.list_line_even {
+  background-color: #9fb1bc;
+}
+
+a { 
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.element {
+  padding: 10px;
+}
+
+a.stringdb {
+  padding: 10px;
+  margin: 20px;
+  margin-top: 20px;
+  color: white;
+  background-color: #2e5266;;
+  text-decoration: none;
+  width: 20%;
+  font-size: 17px;
+}
+
+a:hover {
+  text-decoration: underline;
+}

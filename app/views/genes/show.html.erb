@@ -1,20 +1,75 @@
 <a href="/genes"><h2>NucleoDepot</h2></a>
 <h1>Data on gene: <%= @gene.identity%></h1>
 
-<p>Type: <%= @gene.form%></p>
-<p>Description: <%= @gene.name%></p>
+<h3>Type:</h3>
+
+<div class="stuff">
+<p><%= @gene.form%></p>
+<h3>Description:</h3>
+<p><%= @gene.name%></p>
+</div>
+<br>
+
+
 
 <%x = 0%>
-<%@mutations = Meutation.all%>
-<%@mutations.each do |mutation|%>
-  <%if mutation.identity == @gene.identity%>
-    <%if mutation.form == @gene.form%>
-      <%x += 1%>
-      <h3>Mutation <%=x%> of gene <%=@gene.identity%>:</h3>
-      <p>Mutation Location: <%=mutation.location%></p>
-      <p>Mutation Type: <%=mutation.kind%></p>
-      <p>Mutation product: <%=mutation.subtype%>
-      <div></div>
+<%@drugs = Drug.all%>
+<%@drugs.each do |drug|%>
+  <%if drug.gene ==  @gene.identity%>
+    <%if drug.drug != nil%>
+      <%x+=1%>
     <%end%>
   <%end%>
 <%end%>
+
+
+<div class="flex2">
+<h2>Mutations of gene <%=@gene.identity%>:</h2>
+<h2>Contains <%=x%> Drugs targeting gene <%=@gene.identity%>:</h2>
+</div>
+<%x=0%>
+<div class="flex">
+<%@mutations = Meutation.all%>
+<ul>
+<%@mutations.each do |mutation|%>
+  <%if mutation.identity == @gene.identity%>
+    <%if mutation.form == @gene.form%>  <!--maybe comment this line out. Too tired to test rn -->
+      <%x += 1%>
+      <li>
+      <h3>Mutation <%=x%>:</h3>
+      <p>Mutation Location: <%=mutation.location%></p>
+      <p>Mutation Type: <%=mutation.kind%></p>
+      <p>Mutation product: <%=mutation.subtype%>
+      </li>
+    <%end%>
+  <%end%>
+<%end%>
+</ul>
+<% if x == 0%>
+  <p>No mutations logged for gene <%=@gene.identity%></p>
+<%end%>
+
+<!--<%x = 0%>
+<%@drugs = Drug.all%>
+<%@drugs.each do |drug|%>
+  <%if drug.gene ==  @gene.identity%>
+    <%if drug.drug != nil%>
+      <%x+=1%>
+    <%end%>
+  <%end%>
+<%end%>-->
+
+<!--<h2>Contains <%=x%> Drugs targeting gene <%=@gene.identity%>:</h2>-->
+<ul>
+<%@drugs.each do |drug|%>
+  <%if drug.gene == @gene.identity%>
+    <%if drug.drug != nil%>
+      <li>
+      <p>Drug Name: <%=drug.drug%></p>
+      <p>Source: <%=drug.source%></p>
+      </li>
+     <%end%>
+  <%end%>
+<%end%>
+</ul>
+</div>
