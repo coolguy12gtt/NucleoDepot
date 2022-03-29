@@ -1,6 +1,8 @@
 <a href="/genes"><h3>NucleoDepot</h3></a>
 <h1>String-db data:</h1>
 <%@webs.each do |web|%>
-  <%= image_tag web.link, width: 540%>
-  <%= image_tag web.information, width: 540%>
+  <div class="web">
+  <%= image_tag web.link, width: 400%>
+  <%= image_tag web.information, width: 400%>
+  </div>
 <%end%>

@@ -1,3 +1,4 @@
+
 <a href="/genes"><h2>NucleoDepot</h2></a>
 <%form = ""%>
 <%@genes.each do |gene|%>
@@ -7,11 +8,12 @@
 <h1>Search by <%=form%> results:</h1>
 <a href="\searchType.csv?q=<%=form%>"><h3>Download CSV</h3></a>
 <form class="form-inline-my-2 my-lg-0" action="/searchID"> <!--will this work?-->
-  <input class="form-control mr-sm-2" name="q" type="text" placeholder="Search by Gene" aria-label="Search">
-  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
+  <input class="form-control2 mr-sm-2" name="q" type="text" placeholder="Search by Gene (all caps)" aria-label="Search">
+  <br>
+  <button class="btn2 btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
 </form>
 
-<form class="dropdown">
+<!-- <form class="dropdown">
   <button onmouseover="myFunction()" class="dropbtn">Cancer Type</button>
   <div id="myDropdown" class="dropdown-content">
     <%x = ""%>
@@ -23,33 +25,59 @@
       <%end%>
     <%end%>
   </div>
+</div>  -->
+
+
+<form class="dropdown2">
+  <button onmouseover="myFunction()" class="dropbtn2">Cancer Type</button>
+  <div id="myDropdown" class="dropdown-content">
+    <%@genes2 = Gene.all%>
+    <% @genes2.map { |g| g.form }.uniq.each do |gene| %>
+        <a href="/searchType?q=<%=gene%>"><%=gene%></a>
+    <%end%>
+  </div>
 </div>
+</form>
+
+
 
 
 <div></div>
 
-
+<div class="graph">
 <%@images.each do |image|%>
   <%if image.form == form%>
     <%= image_tag image.link, height: 300%>
   <%end%>
 <%end%>
+</div>
 
-<div></div>
+<br>
 
-<a href="/searchWeb?q=<%=form%>">See String-db Data</a>
+<div class="stringdb">
+ <a class="stringdb" href="/searchWeb?q=<%=form%>">See String-db Data</a>
+</div>
 
-
+<div class="list">
 <ul>
+  <div class="element">
+    <li class='list_line_even'>Genes:</li>
+  </div>
 <%x=0%>
   <% @genes.each do |gene| %>
+    <% if gene.identity != 'None'%>
     <%break if x>=1000%>
+    <div class="element">
     <li>
-        <%x+=1%>
+      <%x+=1%>
+      <div class= "<%= cycle('list_line_odd', 'list_line_even') -%>">
       <a href="/genes/<%= gene.id %>"> <!--maybe put this stuff in an array and print it later-->
       <%=gene.identity%>
-    </a>
-    </li>
+      </a>
+      </li>
+    </div>
+   <% end%>
   <%end%>
 </ul>
+</div>
 

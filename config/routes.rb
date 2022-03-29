@@ -12,6 +12,9 @@
   get "/searchInType", to: "genes#searchInType"
   get "/update", to: "genes#updateGenes"
   get "/searchWeb", to: "genes#searchWeb"
+  get "/thx", to: "genes#thx"
+  get "/about", to: "genes#about"
+  get "/references", to: "genes#references"
 
   #resources :genes
 end

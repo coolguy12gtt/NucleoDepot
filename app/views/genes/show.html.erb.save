@@ -1,0 +1,32 @@
+<a href="/genes"><h2>NucleoDepot</h2></a>
+<h1>Data on gene: <%= @gene.identity%></h1>
+
+<p>Type: <%= @gene.form%></p>
+<p>Description: <%= @gene.name%></p>
+
+<%x = 0%>
+<%@mutations = Meutation.all%>
+<%@mutations.each do |mutation|%>
+  <%if mutation.identity == @gene.identity%>
+    <%if mutation.form == @gene.form%>  <!--maybe comment this line out. Too tired to test rn -->
+      <%x += 1%>
+      <h3>Mutation <%=x%> of gene <%=@gene.identity%>:</h3>
+      <p>Mutation Location: <%=mutation.location%></p>
+      <p>Mutation Type: <%=mutation.kind%></p>
+      <p>Mutation product: <%=mutation.subtype%>
+      <div></div>
+    <%end%>
+  <%end%>
+<%end%>
+
+<%x = 0%>
+<%@drugs = Drug.all%>
+<%@drugs.each do |drug|%>
+  <%if drug.gene == @gene.identity%>
+      <%x += 1%>
+      <h3>Mutation <%=x%> of gene <%=@gene.identity%>:</h3>
+      <p>Mutation Location: <%=mutation.location%></p>
+      <p>Mutation Type: <%=mutation.kind%></p>
+      <p>Mutation product: <%=mutation.subtype%>      <div></div>
+  <%end%>
+<%end%>
