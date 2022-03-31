@@ -1,10 +1,7 @@
 <a href="/genes"><h2>NucleoDepot</h2></a>
 <h1>Data on gene: <%= @gene.identity%></h1>
 
-<h3>Type:</h3>
-
 <div class="stuff">
-<p><%= @gene.form%></p>
 <h3>Description:</h3>
 <p><%= @gene.name%></p>
 </div>
@@ -30,10 +27,11 @@
 <%x=0%>
 <div class="flex">
 <%@mutations = Meutation.all%>
+<%list = Array.new%>
 <ul>
 <%@mutations.each do |mutation|%>
   <%if mutation.identity == @gene.identity%>
-    <%if mutation.form == @gene.form%>  <!--maybe comment this line out. Too tired to test rn -->
+    <%if not(list.include?(mutation.location))%>
       <%x += 1%>
       <li>
       <h3>Mutation <%=x%>:</h3>
@@ -42,6 +40,7 @@
       <p>Mutation product: <%=mutation.subtype%>
       </li>
     <%end%>
+    <%list.push(mutation.location)%>
   <%end%>
 <%end%>
 </ul>

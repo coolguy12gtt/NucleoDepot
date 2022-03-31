@@ -1,4 +1,4 @@
-<a href="/genes"><h3>Home</h3></a>
+<a href="/genes"><h3>NucleoDepot</h3></a>
 <h1>Search by Identity Results:</h1>
 
 <form class="form-inline-my-2 my-lg-0"> <!--will this work?-->
@@ -7,13 +7,18 @@
   <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
 </form>
 
+
+<%pages = Array.new%>
 <ul>
-  <% @genes.each do |gene| %> <!--why can gene.name only be used inside each loop?-->
+  <% @genes.each do |gene| %>
+    <%if not(pages.include?(gene.identity))%>
     <li>
       <a href="/genes/<%= gene.id %>">
       <%=gene.identity%>
       </a>
-      <p>Type: <%=gene.form%></p>
     </li>
+    <br>
+    <%pages.push(gene.identity)%>
+    <%end%>
   <% end %>
 </ul>
