@@ -19,6 +19,9 @@ module Database
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
-    config.hosts << 'nucleodepot.herokuapp.com'
+    config.hosts << 'nucleodepot.boilerinvasion.org'
+    config.web_console.permissions = '69.174.156.218'
+    config.web_console.permissions = '192.168.2.9'
+    config.web_console.whiny_requests = false
   end
 end

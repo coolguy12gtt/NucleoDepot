@@ -21,12 +21,13 @@ class GenesController < ApplicationController
   end
 
   def searchType
-    @genes = Gene.where("form LIKE ? ","%" + params[:q] + "%") #consider using find_by
-    @images = Image.where("form LIKE ? ","%" + params[:q] + "%") #why doesn't this line work?
+    @genes2 = Gene.where("form LIKE ? ","%" + params[:q] + "%")
+    @genes = @genes2.all.sort_by &:id
+    @images = Image.where("form LIKE ? ","%" + params[:q] + "%")
     @webs = Web.where("form LIKE ? ","%" + params[:q] + "%")
     respond_to do |format|
       format.html
-      format.csv { send_data @genes.to_csv}
+      format.csv { send_data @genes2.to_csv}
     end
   end
 
