@@ -21,9 +21,9 @@ default: &default
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   host: localhost
-  username: pi
-  password: RAUNAKdani64
-  database: newdb
+  username: heliosystem
+  password: robotics
+  database: nucleodepot
 
 development:
   <<: *default

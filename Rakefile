@@ -59,7 +59,7 @@ end
 task :integrateFrequencies => :environment do
   require 'csv'
   puts 'processing...'
-  frequencyTable = CSV.parse(File.read("frequencies.csv"), headers:true)
+  frequencyTable = CSV.parse(File.read("lymphNodeFrequencies.csv"), headers:true)
   puts frequencyTable
   forms = ["adrenal","bone marrow","bladder","brain","breast",
   "cervix","colorectal","esophagus","head and neck","kidney",

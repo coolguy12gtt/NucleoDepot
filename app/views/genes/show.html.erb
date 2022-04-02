@@ -37,7 +37,7 @@
       <h3>Mutation <%=x%>:</h3>
       <p>Mutation Location: <%=mutation.location%></p>
       <p>Mutation Type: <%=mutation.kind%></p>
-      <p>Mutation product: <%=mutation.subtype%>
+      <p>Mutation Variant: <%=mutation.subtype%>
       </li>
     <%end%>
     <%list.push(mutation.location)%>
@@ -67,6 +67,7 @@
       <p>Drug Name: <%=drug.drug%></p>
       <p>Source: <%=drug.source%></p>
       </li>
+      <br>
      <%end%>
   <%end%>
 <%end%>

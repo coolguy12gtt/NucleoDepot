@@ -13,32 +13,22 @@
   <button class="btn2 btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
 </form>
 
-<!-- <form class="dropdown">
-  <button onmouseover="myFunction()" class="dropbtn">Cancer Type</button>
-  <div id="myDropdown" class="dropdown-content">
-    <%x = ""%>
-    <%@allGenes = Gene.all%>%
-    <% @allGenes.each do |gene| %>
-      <%if(x!=gene.form)%>
-        <a href="/searchType?q=<%=gene.form%>"><%=gene.form%></a>
-        <%x = gene.form%>
-      <%end%>
-    <%end%>
-  </div>
-</div>  -->
-
-
+<%y = 0%>
+<%forms = ["adrenal","bile duct","bladder","bone marrow","brain","breast","cervix","colorectal","esophagus",
+           "eye","head and neck","kidney","liver","lungs","lymph nodes","nervous system","ovary","pancreas","pleura",
+           "prostate","skin","soft tissue","stomach","testis","thymus","thyroid","uterus"]%>
 <form class="dropdown2">
   <button onmouseover="myFunction()" class="dropbtn2">Cancer Type</button>
   <div id="myDropdown" class="dropdown-content">
-    <%@genes2 = Gene.all%>
-    <% @genes2.map { |g| g.form }.uniq.each do |gene| %>
-        <a href="/searchType?q=<%=gene%>"><%=gene%></a>
+    <%@genes.each do |gene|%>
+      <%while y<29%>
+        <a href="/searchType?q=<%=forms[y]%>"><%=forms[y]%></a>
+        <%y = y + 1%>
+      <%end%>
     <%end%>
   </div>
 </div>
 </form>
-
 
 
 
