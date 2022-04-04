@@ -5,6 +5,19 @@ require_relative "config/application"
 
 Rails.application.load_tasks
 
+
+task :rinrubyTest => :environment do
+  require 'rubygems'
+  require 'rinruby'
+  R = RinRuby.new
+  puts 'running'
+  names = ["a","b","c"]
+  R.people = names
+  R.eval "sort(people)"
+  puts R.people
+end
+
+
 task :readCSV => :environment do 
 require 'csv'
 puts 'running...'
