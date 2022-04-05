@@ -7,14 +7,13 @@ Rails.application.load_tasks
 
 
 task :rinrubyTest => :environment do
-  require 'rubygems'
   require 'rinruby'
-  R = RinRuby.new
+  r = RinRuby.new
   puts 'running'
   names = ["a","b","c"]
-  R.people = names
-  R.eval "sort(people)"
-  puts R.people
+  r.people = names
+  r.eval "sort(people)"
+  puts r.people
 end
 
 
