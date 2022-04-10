@@ -1,20 +1,83 @@
 # Add your own tasks in files placed in lib/tasks ending in .rake,
 # for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
-
+	
 require_relative "config/application"
 
 Rails.application.load_tasks
 
 
-task :rinrubyTest => :environment do
+task :ageHist => :environment do
   require 'rinruby'
+  require 'pdftoimage'
+  puts 'running...'
   r = RinRuby.new
-  puts 'running'
-  names = ["a","b","c"]
-  r.people = names
-  r.eval "sort(people)"
-  puts r.people
+  dataTable = CSV.parse(File.read("data/cBioPortal/pancreas.csv"))
+  puts dataTable[0][3]
+  array = Array.new
+  x = 0
+  while x < dataTable.size do
+   # if dataTable[x][3].is_a? Integer
+    array.push(dataTable[x][3].to_i)
+    if array[x].is_a? Integer
+      puts array[x]
+    else
+      puts "not and int"
+    end
+    x+=1
+  end
+  r.data = array
+  r.eval "hist(data)"
+  r.quit
+  r = RinRuby.new
+  r.eval "print(gghist(data))"
+  images = PDFToImage.open('Rplots.pdf')
+  images.each do |img|
+    img.resize('50%').save("rplot.jpg")
+  end
+  r.quit
 end
+
+
+
+task :rinrubyTest4 => :environment do
+  require 'rinruby'
+  require 'pdftoimage'
+  require 'mutool'
+  require 'docsplit'
+  puts 'running...'
+  r = RinRuby.new
+  dataTable = CSV.parse(File.read("experiment.csv"))
+  puts dataTable
+  array = Array.new
+  array2 = Array.new
+  x = 0
+  while x < 5 do
+    array.push(dataTable[x][1])
+    array2.push(dataTable[x][0])
+    x += 1
+  end
+  r.data = array
+  r.data2 = array2
+ # r.eval <<EOF
+  r.eval "plot(data2,data2)"
+  r.quit
+  r = RinRuby.new
+  r.eval "print(ggplot(data2,data2))"
+
+#  mutool clean "Rplots.pdf"
+  images = PDFToImage.open("Rplots.pdf")  
+  images.each do |img|
+    img.resize('50%').save("done.jpg")
+  end
+ # r.eval "option(bitmapType='cairo')"
+  #r.eval "png('rplot.png')"
+  r.quit
+  puts 'done'
+
+ # EOF
+end
+
+
 
 
 task :readCSV => :environment do 

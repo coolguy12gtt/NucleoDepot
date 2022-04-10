@@ -1,4 +1,4 @@
-
+<%require "rake"%>
 <a href="/genes"><h2>NucleoDepot</h2></a>
 <%form = ""%>
 <%@genes.each do |gene|%>
@@ -30,9 +30,10 @@
 </div>
 </form>
 
+<%Database::Application.load_tasks%>
+<%Rake::Task["ageHist"].invoke%>
+<%Rake::Task["ageHist"].execute%>
 
-
-<div></div>
 
 <div class="graph">
 <%@images.each do |image|%>
@@ -40,6 +41,7 @@
     <%= image_tag image.link, height: 300%>
   <%end%>
 <%end%>
+<%= image_tag 'rplotJpg.jpg', height: 300%>
 </div>
 
 <br>

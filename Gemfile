@@ -79,3 +79,9 @@ group :test do
 end
 
 gem 'rinruby'
+
+gem 'pdftoimage'
+
+gem 'mutool'
+
+gem 'docsplit'
