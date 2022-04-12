@@ -1,0 +1,126 @@
+Study ID,Patient ID,Sample ID,Cancer Type,Cancer Type Detailed,Mutation Count,Oncotree Code,Sample Class,Number of Samples Per Patient,Bilateral,Choroidal Invasion,Fraction Genome Altered,Gain 1q,Hypertension diagnosis,LOH 16q,Matched Status,Optic Nerve Invasion,Prior Treatment,Rubeosis,Sex,Subretinal Seeds,TMB (nonsynonymous),Vitreous Seeds,Worse Prognosis,Age At Procurement,Cell Type,Country of Procurement,Genomic Burden,Last Followup Status,Metastatic Site,Number of Protein Altering Mutations,Platform,Primary Tumor Site,Sample Type,Somatic Status,Total Exonic Mutation Burden,Treatment
+um_qimr_2016,00028-001-CL,00028-001-CL,Melanoma,Uveal Melanoma,52,UM,Cell Line,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,1.733333333,NA,NA,65,Spindle type  A (40%) and spindle type B (60%),Australia,NA,NA,NA,53,WES,Left eye choroid,Primary,Matched,2.52,Enucleation
+um_qimr_2016,00038-001-CL,00038-001-CL,Melanoma,Uveal Melanoma,11,UM,Cell Line,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.3666666667,NA,NA,73,"Spindle type B, small component of epitheliod cells",Australia,NA,NA,NA,11,WES,Left eye choroid,Primary,Matched,0.5,Enucleation
+um_qimr_2016,00061-001-CL,00061-001-CL,Melanoma,Uveal Melanoma,13,UM,Cell Line,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.4333333333,NA,NA,70,Spindle type B,Australia,NA,NA,NA,13,WES,Left eye choroid,Primary,Matched,0.53,Enucleation
+um_qimr_2016,00085-001-CL,00085-001-CL,Melanoma,Uveal Melanoma,13,UM,Cell Line,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.4333333333,NA,NA,63,Spindle type B (50%) and epitheliod cells (50%),Australia,NA,Liver metastasis died 01/12/2013,NA,13,WES,Left eye choroid,Primary,Matched,0.48,Enucleation
+um_qimr_2016,00099-001-CL,00099-001-CL,Melanoma,Uveal Melanoma,14,UM,Cell Line,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.4666666667,NA,NA,65,Spindle type  A (75%) and spindle type B (25%),Australia,NA,NA,NA,15,WES,Right eye choroid,Primary,Matched,0.59,Enucleation
+um_qimr_2016,141378RG-T,141378RG-T,Melanoma,Uveal Melanoma,7,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.2333333333,NA,NA,64,Mixed Spindle and Epithelioid (Predominantly Spindle B),Australia,NA,NA,NA,6,WES,Cilary Body,Primary,Matched,0.39,Enucleation
+um_qimr_2016,C0622943-T,C0622943-T,Melanoma,Uveal Melanoma,5,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.1666666667,NA,NA,64,Mixed Spindle and Epithelioid,Australia,NA,NA,NA,5,WES,Choroid,Primary,Matched,0.26,Enucleation
+um_qimr_2016,ETB-0002-T,ETB-0002-T,Melanoma,Uveal Melanoma,8,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.2666666667,NA,NA,47,Mixed Spindle and Epithelioid,Australia,NA,Perineural spread,NA,8,WES,Choroid,Primary,Matched,0.27,Enucleation
+um_qimr_2016,J2217960PR-T,J2217960PR-T,Melanoma,Uveal Melanoma,14,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.4666666667,NA,NA,80,Mixed Spindle and Epithelioid (Predominantly Spindle),Australia,NA,NA,NA,14,WES,Choroid,Primary,Matched,0.65,Enucleation
+um_qimr_2016,K0111890AC-T,K0111890AC-T,Melanoma,Uveal Melanoma,3,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.1,NA,NA,85,Mixed Spindle and Epithelioid,Australia,NA,NA,NA,3,WES,Choroid,Primary,Matched,0.32,Plaque/ enucleation
+um_qimr_2016,MM1488,MM1488,Melanoma,Uveal Melanoma,NA,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,NA,NA,NA,36,NA,Sweden,NA,NA,Liver Mets,0,WES,NA,Metastasis,Matched,0.089,NA
+um_qimr_2016,MM1551,MM1551,Melanoma,Uveal Melanoma,8,UM,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2666666667,NA,NA,NA,NA,Sweden,NA,NA,NA,5,WES,NA,NA,Matched,0.27,NA
+um_qimr_2016,MM1563,MM1563,Melanoma,Uveal Melanoma,NA,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,NA,NA,NA,69,NA,Sweden,NA,NA,Liver Mets,0,WES,NA,Metastasis,Matched,0.059,NA
+um_qimr_2016,MM639,MM639,Melanoma,Uveal Melanoma,18,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.6,NA,NA,79,Mixed Spindle and Epithelioid,Sweden,NA,Died 19/11/1999,Illiac Crest Mets,19,WES,Choroid,Metastasis,Matched,0.8,NA
+rbl_mskcc_2020,P-0006354,P-0006354-T01-IM5,NA,NA,2,NA,NA,1,No,No,0.1287,Yes,Yes,No,Yes,Yes,No,Yes,Male,Yes,1.957439395,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0008676,P-0008676-T01-IM5,NA,NA,1,NA,NA,1,Bilateral,No,0.0003,No,No,No,Yes,No,No,Yes,Female,Yes,0.9787196976,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0009054,P-0009054-T01-IM5,NA,NA,1,NA,NA,1,No,Yes,0.0807,No,Yes,No,Yes,Yes,No,No,Male,Yes,0.9787196976,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0009865,P-0009865-T01-IM5,NA,NA,2,NA,NA,1,No,No,0.0511,No,No,Yes,Yes,No,No,No,Female,Yes,1.957439395,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0013868,P-0013868-T01-IM5,NA,NA,3,NA,NA,1,No,No,0.097,Yes,No,Yes,Yes,No,No,No,Female,No,2.936159093,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0014887,P-0014887-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.3272,Yes,No,No,Yes,No,Yes,Yes,Male,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0014891,P-0014891-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.0735,Yes,No,Yes,Yes,Yes,No,Yes,Male,No,0.864698095,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0017274,P-0017274-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.061,No,No,No,Yes,No,Yes,Yes,Female,Yes,1.72939619,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0017290,P-0017290-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.1357,Yes,Yes,Yes,Yes,No,Yes,Yes,Male,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0018838,P-0018838-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.2266,Yes,No,Yes,Yes,No,No,Yes,Female,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0019361,P-0019361-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.0943,Yes,No,No,Yes,No,No,No,Female,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0020507,P-0020507-T01-IM6,NA,NA,NA,NA,NA,1,No,No,0.0196,No,No,No,Yes,No,No,Yes,Female,Yes,0,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0021827,P-0021827-T01-IM6,NA,NA,6,NA,NA,1,No,Yes,0.4417,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,Yes,5.18818857,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022334,P-0022334-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.0044,No,No,No,Yes,No,No,No,Female,No,0,No,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022386,P-0022386-T01-IM6,NA,NA,2,NA,NA,1,No,Yes,0.2779,Yes,No,No,Yes,No,No,Yes,Male,Yes,1.72939619,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022580,P-0022580-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.1269,Yes,Yes,No,Yes,No,No,Yes,Male,Yes,0,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022583,P-0022583-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.0276,No,No,No,Yes,No,Yes,Yes,Female,Yes,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022662,P-0022662-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.0984,Yes,No,Yes,Yes,No,No,No,Female,No,1.72939619,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022705,P-0022705-T01-IM6,NA,NA,2,NA,NA,1,No,Yes,0.1132,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Male,Yes,1.72939619,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022722,P-0022722-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.1342,NA,Yes,NA,Yes,No,No,Yes,Female,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022753,P-0022753-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.3402,Yes,NA,No,Yes,Yes,No,Yes,Female,No,0.864698095,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0022929,P-0022929-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.0756,Yes,NA,Yes,Yes,No,No,No,Male,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0023095,P-0023095-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,Yes,0.0178,No,No,No,Yes,Yes,No,Yes,Male,No,0,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0023255,P-0023255-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.1226,No,NA,Yes,Yes,No,No,No,Male,No,0,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0023348,P-0023348-T01-IM6,NA,NA,4,NA,NA,1,No,No,0.2382,No,No,Yes,Yes,No,Yes,Yes,Male,Yes,3.45879238,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0023460,P-0023460-T01-IM6,NA,NA,1,NA,NA,1,Bilateral,Yes,0.1485,Yes,NA,No,Yes,Yes,Yes,Yes,Female,Yes,0.864698095,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0023480,P-0023480-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.2941,Yes,No,Yes,Yes,No,No,Yes,Female,No,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0024092,P-0024092-T01-IM6,NA,NA,3,NA,NA,1,No,No,0.3248,NA,No,NA,Yes,No,No,No,Female,No,2.594094285,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0024098,P-0024098-T01-IM6,NA,NA,3,NA,NA,1,Bilateral,Yes,0.088,No,No,Yes,Yes,No,Yes,No,Female,Yes,2.594094285,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0025171,P-0025171-T01-IM6,NA,NA,1,NA,NA,1,Bilateral,Yes,0.1792,Yes,No,No,Yes,No,Yes,No,Female,No,0.864698095,No,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0025366,P-0025366-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.0715,No,No,No,Yes,No,Yes,No,Male,Yes,0,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0025378,P-0025378-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.0945,No,No,No,Yes,No,Yes,No,Male,No,1.72939619,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0025404,P-0025404-T01-IM6,NA,NA,2,NA,NA,1,Bilateral,No,0.0613,Yes,Yes,Yes,Yes,No,Yes,No,Male,Yes,1.72939619,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0026049,P-0026049-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.0157,No,Yes,No,Yes,No,No,No,Male,Yes,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0027634,P-0027634-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.1165,Yes,NA,No,Yes,No,Yes,No,Male,Yes,0.864698095,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0028019,P-0028019-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.0963,Yes,Yes,No,Yes,No,No,No,Male,Yes,0.864698095,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0028137,P-0028137-T01-IM6,NA,NA,1,NA,NA,2,Bilateral,Yes,0.1661,No,NA,Yes,Yes,No,Yes,Yes,Male,No,0.864698095,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0028137,P-0028137-T02-IM6,NA,NA,1,NA,NA,2,Bilateral,Yes,0.0451,NA,No,NA,Yes,No,Yes,No,Male,No,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0028341,P-0028341-T01-IM6,NA,NA,3,NA,NA,1,No,No,0.0725,Yes,Yes,Yes,Yes,No,Yes,Yes,Male,Yes,2.594094285,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0032430,P-0032430-T01-IM6,NA,NA,2,NA,NA,1,No,Yes,0.1637,Yes,No,Yes,Yes,No,Yes,Yes,Male,No,1.72939619,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0032441,P-0032441-T01-IM6,NA,NA,3,NA,NA,1,No,Yes,0.0788,Yes,No,Yes,Yes,No,Yes,No,Male,Yes,2.594094285,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0033666,P-0033666-T01-IM6,NA,NA,2,NA,NA,1,No,No,0.0861,Yes,Yes,Yes,Yes,Yes,No,Yes,Male,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0034158,P-0034158-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.4027,Yes,Yes,Yes,Yes,Yes,No,Yes,Female,Yes,0,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0037125,P-0037125-T01-IM6,NA,NA,NA,NA,NA,1,No,No,0.0416,No,Yes,No,Yes,No,No,Yes,Male,Yes,0,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0037740,P-0037740-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.0264,No,Yes,No,Yes,No,Yes,No,Male,Yes,0,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0038332,P-0038332-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.0017,No,No,No,Yes,No,No,No,Female,Yes,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0038941,P-0038941-T01-IM6,NA,NA,2,NA,NA,1,No,Yes,0.0537,Yes,No,No,Yes,No,No,Yes,Male,Yes,1.72939619,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0038971,P-0038971-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.0016,No,No,No,Yes,No,Yes,Yes,Male,NA,0,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0039221,P-0039221-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.1236,Yes,No,No,Yes,Yes,Yes,Yes,Male,NA,0.864698095,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0039850,P-0039850-T01-IM6,NA,NA,6,NA,NA,1,No,No,0.1063,Yes,No,Yes,Yes,No,Yes,No,Male,Yes,5.18818857,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0039887,P-0039887-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.1555,Yes,No,Yes,Yes,NA,Yes,No,Female,NA,0.864698095,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0041375,P-0041375-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0.1749,Yes,No,Yes,Yes,No,No,No,Male,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0041635,P-0041635-T01-IM6,NA,NA,1,NA,NA,1,No,No,0.0652,Yes,No,No,Yes,No,Yes,Yes,Male,No,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0042103,P-0042103-T01-IM6,NA,NA,1,NA,NA,1,Bilateral,No,0.1072,No,No,No,Yes,No,Yes,No,Female,No,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0042231,P-0042231-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,No,0.0973,Yes,Yes,Yes,Yes,No,No,Yes,Male,Yes,0,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0042639,P-0042639-T01-IM6,NA,NA,1,NA,NA,1,No,Yes,0,Yes,No,No,Yes,Yes,Yes,Yes,Male,NA,0.864698095,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0042678,P-0042678-T01-IM6,NA,NA,2,NA,NA,1,No,Yes,0.1618,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Female,Yes,1.72939619,NA,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0042864,P-0042864-T01-IM6,NA,NA,NA,NA,NA,1,Bilateral,Yes,0.059,Yes,Yes,No,Yes,Yes,Yes,Yes,Male,Yes,0,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0043327,P-0043327-T01-IM6,NA,NA,2,NA,NA,1,Bilateral,No,0.139,NA,Yes,NA,Yes,Yes,No,Yes,Male,No,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0043428,P-0043428-T01-IM6,NA,NA,3,NA,NA,1,No,No,0.1256,Yes,NA,No,Yes,No,No,No,Male,Yes,2.594094285,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0043477,P-0043477-T01-IM6,NA,NA,NA,NA,NA,1,No,No,0.0147,No,Yes,No,Yes,No,Yes,Yes,Female,Yes,0,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,P-0046319,P-0046319-T01-IM6,NA,NA,5,NA,NA,1,No,Yes,0.0551,No,No,Yes,Yes,No,Yes,No,Male,NA,4.323490475,NA,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-001-cf-IGO-05500-CT-40,RB-001-cf-IGO-05500-CT-40,Retinoblastoma,Retinoblastoma,1251,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-001-cf-R2-IGO-07220-C-18,RB-001-cf-R2-IGO-07220-C-18,Retinoblastoma,Retinoblastoma,1218,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-003-cf-IGO-05500-CT-41,RB-003-cf-IGO-05500-CT-41,Retinoblastoma,Retinoblastoma,1350,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-003-cf-R2-IGO-07220-C-19,RB-003-cf-R2-IGO-07220-C-19,Retinoblastoma,Retinoblastoma,1360,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-011-cf-IGO-05500-CT-42,RB-011-cf-IGO-05500-CT-42,Retinoblastoma,Retinoblastoma,1223,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-016-cf-IGO-05500-CT-39,RB-016-cf-IGO-05500-CT-39,Retinoblastoma,Retinoblastoma,1312,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-016-cf-R2-IGO-07220-C-21,RB-016-cf-R2-IGO-07220-C-21,Retinoblastoma,Retinoblastoma,1328,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-019-cf-IGO-05500-CT-38,RB-019-cf-IGO-05500-CT-38,Retinoblastoma,Retinoblastoma,1343,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-019-cf-R2-IGO-07220-C-22,RB-019-cf-R2-IGO-07220-C-22,Retinoblastoma,Retinoblastoma,1418,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-021-cf-IGO-07220-C-7,RB-021-cf-IGO-07220-C-7,Retinoblastoma,Retinoblastoma,800,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-022-cf-IGO-07220-C-8,RB-022-cf-IGO-07220-C-8,Retinoblastoma,Retinoblastoma,407,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-023-cf1-IGO-07220-C-9,RB-023-cf1-IGO-07220-C-9,Retinoblastoma,Retinoblastoma,367,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-024-cf-IGO-07220-C-11,RB-024-cf-IGO-07220-C-11,Retinoblastoma,Retinoblastoma,645,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_cfdna_msk_2020,RB-026-cf-IGO-07220-C-13,RB-026-cf-IGO-07220-C-13,Retinoblastoma,Retinoblastoma,564,RBL,cfDNA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001957,s_C_001957_T001_d,NA,NA,4,NA,NA,1,No,No,0.1271,NA,Yes,NA,No,Yes,No,No,Female,Yes,7.782282855,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001959,s_C_001959_T001_d,NA,NA,6,NA,NA,1,No,No,0.2205,NA,NA,NA,No,No,No,Yes,Male,Yes,14.69986761,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001960,s_C_001960_T001_d,NA,NA,1,NA,NA,2,Bilateral,Yes,0.0077,Yes,No,No,Yes,Yes,No,No,Male,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001960,s_C_001960_T002_d,NA,NA,1,NA,NA,2,Bilateral,Yes,0.1288,Yes,Yes,No,Yes,Yes,No,Yes,Male,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001962,s_C_001962_T001_d,NA,NA,16,NA,NA,1,No,No,0.0753,NA,NA,NA,No,No,Yes,Yes,Male,No,21.61745237,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001963,s_C_001963_T001_d,NA,NA,7,NA,NA,1,No,No,0.3508,NA,NA,NA,No,Yes,No,No,Female,No,6.052886665,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001964,s_C_001964_T001_d,NA,NA,7,NA,NA,1,No,No,0.0592,NA,NA,NA,No,No,No,No,Female,No,28.53503713,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001965,s_C_001965_T001_d,NA,NA,8,NA,NA,1,No,No,0.1225,NA,NA,NA,No,No,No,No,Male,Yes,14.69986761,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001966,s_C_001966_T001_d,NA,NA,NA,NA,NA,1,No,No,0.1275,Yes,No,Yes,Yes,No,No,Yes,Male,Yes,0,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001967,s_C_001967_T001_d,NA,NA,1,NA,NA,1,No,No,0.5416,Yes,No,Yes,Yes,No,No,No,Male,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001968,s_C_001968_T001_d,NA,NA,1,NA,NA,1,No,No,0.1772,Yes,NA,Yes,Yes,Yes,No,No,Female,Yes,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001970,s_C_001970_T001_d,NA,NA,2,NA,NA,1,No,No,0.3043,No,No,Yes,Yes,No,No,No,Female,Yes,1.72939619,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001971,s_C_001971_T001_d,NA,NA,1,NA,NA,1,No,No,0.0695,Yes,No,No,Yes,Yes,No,No,Male,No,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001972,s_C_001972_T001_d,NA,NA,1,NA,NA,1,No,No,0.0206,Yes,Yes,No,Yes,No,No,No,Female,Yes,0.864698095,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001973,s_C_001973_T001_d,NA,NA,8,NA,NA,1,No,No,0.334,NA,Yes,NA,No,Yes,No,Yes,Female,No,14.69986761,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001974,s_C_001974_T001_d,NA,NA,NA,NA,NA,1,No,No,0.0333,Yes,NA,No,Yes,No,No,No,Male,No,0,No,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001975,s_C_001975_T001_d,NA,NA,1,NA,NA,1,No,No,0.1847,Yes,No,Yes,Yes,No,No,No,Female,No,0.864698095,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001976,s_C_001976_T001_d,NA,NA,2,NA,NA,1,No,No,0.0177,Yes,NA,No,Yes,No,No,No,Female,Yes,1.72939619,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001977,s_C_001977_T001_d,NA,NA,NA,NA,NA,1,No,No,0.1065,NA,Yes,NA,Yes,Yes,No,Yes,Female,Yes,0,Yes,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001978,s_C_001978_T001_d,NA,NA,5,NA,NA,1,No,No,0.1629,NA,Yes,NA,No,No,No,No,Female,Yes,12.10577333,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rbl_mskcc_2020,C-001979,s_C_001979_T001_d,NA,NA,7,NA,NA,1,No,Yes,0.1892,NA,Yes,NA,No,Yes,No,Yes,Female,Yes,24.21154666,Yes,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+um_qimr_2016,um_qimr_258,um_qimr_258,Melanoma,Uveal Melanoma,11,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.3666666667,NA,NA,57,Spindle Type,Denmark,0.66,Multiple liver metastasis,NA,11,WGS,Choroid,Primary,Matched,0.71,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_531,um_qimr_531,Melanoma,Uveal Melanoma,11,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.3666666667,NA,NA,63,Mixed Spindle and Epithelioid,Denmark,0.66,0.9mm tumor,NA,11,WGS,Choroid,Primary,Matched,0.48,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_533,um_qimr_533,Melanoma,Uveal Melanoma,8,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.2666666667,NA,NA,73,Mixed Spindle and Epithelioid/ and invasion in Sclerae and Extrascleral invasion,Denmark,0.55,Progression free,NA,8,WGS,Choroid,Primary,Matched,0.48,Enucleation
+um_qimr_2016,um_qimr_534,um_qimr_534,Melanoma,Uveal Melanoma,7,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.2333333333,NA,NA,54,Mixed Spindle and Epithelioid,Denmark,0.63,Liver metastasis,NA,8,WGS,Choroid,Primary,Matched,0.53,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_535,um_qimr_535,Melanoma,Uveal Melanoma,9,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.3,NA,NA,54,Mixed Spindle and Epithelioid,Denmark,0.57,1.2 mm tumor,NA,9,WGS,Choroid,Primary,Matched,0.53,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_537,um_qimr_537,Melanoma,Uveal Melanoma,4,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.1333333333,NA,NA,70,Spindle Type,Denmark,NA,Progression free,NA,4,WGS,Choroid,Primary,Matched,0.47,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_538,um_qimr_538,Melanoma,Uveal Melanoma,7,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.2333333333,NA,NA,70,"Spindle Type B, Pre-Existing Nevus",Denmark,0.35,1.7mm tumor,NA,7,WGS,Choroid,Primary,Matched,0.36,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_539,um_qimr_539,Melanoma,Uveal Melanoma,13,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.4333333333,NA,NA,63,Spindle Type B,Denmark,0.37,2.8mm tumor,NA,13,WGS,Choroid,Primary,Matched,0.48,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_550,um_qimr_550,Melanoma,Uveal Melanoma,17,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.5666666667,NA,NA,62,Mixed Spindle and Epithelioid/ and invasion in Sclerae,Denmark,0.6,Progression free,NA,19,WGS,Choroid,Primary,Matched,0.83,Enucleation
+um_qimr_2016,um_qimr_552,um_qimr_552,Melanoma,Uveal Melanoma,12,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.4,NA,NA,59,Mixed Spindle and Epithelioid/ and invasion in Sclerae,Denmark,0.46,Progression free,NA,12,WGS,Choroid,Primary,Matched,0.56,Enucleation
+um_qimr_2016,um_qimr_553,um_qimr_553,Melanoma,Uveal Melanoma,6,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.2,NA,NA,65,Mixed Spindle and Epithelioid,Denmark,0.49,Multiple liver metastasis,NA,6,WGS,Choroid,Primary,Matched,0.48,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_554,um_qimr_554,Melanoma,Uveal Melanoma,NA,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0,NA,NA,39,Spindle Type,Denmark,0.22,1.2mm tumor,NA,0,WGS,Choroid,Primary,Matched,0.059,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_556,um_qimr_556,Melanoma,Uveal Melanoma,13,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Female,NA,0.4333333333,NA,NA,74,Mixed Spindle and Epithelioid,Denmark,0.57,2.2 mm tumor,NA,13,WGS,Choroid,Primary,Matched,0.5,Plaque/ TVRC-biopsy
+um_qimr_2016,um_qimr_557,um_qimr_557,Melanoma,Uveal Melanoma,10,UM,Tumor,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Male,NA,0.3333333333,NA,NA,61,Spindle Type,Denmark,0.48,1.5mm tumor,NA,10,WGS,Choroid,Primary,Matched,0.53,Plaque/ TVRC-biopsy
