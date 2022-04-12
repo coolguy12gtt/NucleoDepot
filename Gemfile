@@ -78,4 +78,6 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'rinruby'
+gem "rinruby"
+
+gem "pdftoimage"
