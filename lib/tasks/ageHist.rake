@@ -2,18 +2,26 @@ desc 'generates histogram of age at diagnosis'
 task :ageHist, :fileName do |t, args|
   require 'rinruby'
   require 'pdftoimage'
-  puts 'running...' 
+  puts 'running...'
   name = args.fileName
   dataTable = CSV.parse(File.read("data/cBioPortal/#{name}.csv"))
-  puts dataTable[0][3]
-  array = Array.new
   x = 1
-  while x < dataTable.size do
-    dataTable[x][3] = dataTable[x][3].to_i
-    if dataTable[x][3] != 0
-      array.push(dataTable[x][3])
+  y = 0
+  counter = 0
+  while counter < dataTable[0].size do
+    counter += 1
+    if dataTable[0][counter].include? "ge"
+      y = counter
+      counter = dataTable[0].size + 1
     end
-    puts dataTable[x][3]
+  end
+  array = Array.new
+  while x < dataTable.size do
+    dataTable[x][y] = dataTable[x][y].to_i
+    if dataTable[x][y] != 0
+      array.push(dataTable[x][y])
+    end
+    puts y
     x+=1
   end
   R.quit
@@ -25,9 +33,6 @@ task :ageHist, :fileName do |t, args|
   R.eval "print(gghist(age_of_diagnosis))"
   images = PDFToImage.open('Rplots.pdf')
   images.each do |img|
-    img.resize('50%').save("app/assets/images/rplot.jpg")
+    img.resize('50%').save("app/assets/images/ageHist.jpg")
   end
 end
-
-
-

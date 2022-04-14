@@ -82,6 +82,3 @@ gem 'rinruby'
 
 gem 'pdftoimage'
 
-gem 'mutool'
-
-gem 'docsplit'
