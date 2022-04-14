@@ -30,6 +30,17 @@
 </div>
 </form>
 
+<<<<<<< HEAD
+=======
+<%if File.file?('data/cBioPortal/' + form + '.csv')%>
+  <%Rake.application.rake_require 'tasks/ageHist'%>
+  <%Rake::Task['ageHist'].reenable%>
+  <%Rake::Task['ageHist'].execute(Rake::TaskArguments.new([:fileName], [form]))%>
+  <%Rake.application.rake_require 'tasks/mutationHist'%>
+  <%Rake::Task['mutationHist'].reenable%>
+  <%Rake::Task['mutationHist'].execute(Rake::TaskArguments.new([:fileName], [form]))%>
+<%end%>
+>>>>>>> fc06d87922020aee4da0594fde1cffa922087499
 
 <div class="graph">
 <%@images.each do |image|%>
@@ -37,6 +48,15 @@
     <%= image_tag image.link, height: 300%>
   <%end%>
 <%end%>
+<<<<<<< HEAD
+=======
+<%if not(form.eql?('eye')) && not(form.eql?('breast')) && not(form.eql?('nervous system'))%>
+  <%if File.file?('data/cBioPortal/' + form + '.csv')%>
+    <%= image_tag 'ageHist.jpg', height: 300%>
+  <%end%>
+<%end%>
+    <%= image_tag 'mutationCount.jpg', height: 300%>
+>>>>>>> fc06d87922020aee4da0594fde1cffa922087499
 </div>
 
 <br>
