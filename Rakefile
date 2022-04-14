@@ -42,11 +42,9 @@ end
 task :rinrubyTest4 => :environment do
   require 'rinruby'
   require 'pdftoimage'
-  require 'mutool'
-  require 'docsplit'
   puts 'running...'
   r = RinRuby.new
-  dataTable = CSV.parse(File.read("experiment.csv"))
+  dataTable = CSV.parse(File.read("test.csv"))
   puts dataTable
   array = Array.new
   array2 = Array.new

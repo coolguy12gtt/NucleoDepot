@@ -31,17 +31,12 @@
 </form>
 
 
-<%Rake.application.rake_require 'tasks/ageHist'%>
-<%Rake::Task['ageHist'].reenable%>
-<%Rake::Task['ageHist'].execute(Rake::TaskArguments.new([:fileName], [form]))%>
-
 <div class="graph">
 <%@images.each do |image|%>
   <%if image.form == form%>
     <%= image_tag image.link, height: 300%>
   <%end%>
 <%end%>
-<%= image_tag 'rplot.jpg', height: 300%>
 </div>
 
 <br>
