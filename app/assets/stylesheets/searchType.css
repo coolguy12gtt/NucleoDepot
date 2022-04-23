@@ -93,7 +93,12 @@
 
 
 
-.graph {
+.graph1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.graph2 {
     display: flex;
     justify-content: space-around;
 }
