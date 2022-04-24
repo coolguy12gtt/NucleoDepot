@@ -24,6 +24,8 @@ body {background-color: #d3d0cbff;}
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .btn {  /*class might need to be changed */
@@ -35,6 +37,9 @@ body {background-color: #d3d0cbff;}
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  box-shadow: 2px 4px 4px grey;
 }
 
 
@@ -42,11 +47,14 @@ body {background-color: #d3d0cbff;}
 .dropbtn {
   background-color: #2e5266;
   color: white;
-  padding: 4px;
+  padding: 14px 20px;
   font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
   border: none;
   cursor: pointer;
   margin: auto;
+  border-radius: 4px;
+  box-shadow: 2px 4px 4px grey;
   width: 100%; /*this value will likely need tuning */
 }
 
