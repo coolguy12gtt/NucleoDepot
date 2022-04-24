@@ -4,6 +4,7 @@ task :ageHist, :fileName do |t, args|
   require 'pdftoimage'
   puts 'running...'
   name = args.fileName
+  if not(name.equal?("breast")) && not(name.equal?("nervous system"))
   dataTable = CSV.parse(File.read("data/cBioPortal/#{name}.csv"))
   x = 1
   y = 0
@@ -35,4 +36,5 @@ task :ageHist, :fileName do |t, args|
   images.each do |img|
     img.resize('50%').save("app/assets/images/ageHist.jpg")
   end
+end
 end
