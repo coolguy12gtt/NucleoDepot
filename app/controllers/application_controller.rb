@@ -11,4 +11,12 @@ class ApplicationController < ActionController::Base
       f << "#{ip_addr} - @ #{time}\n"
     end
   end
+
+  def not_found
+    render status: 404
+  end
+ 
+  def not_found
+  raise ActionController::RoutingError.new('Not Found') 
+  end
 end

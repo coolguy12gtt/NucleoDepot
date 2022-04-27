@@ -23,5 +23,6 @@ module Database
     config.web_console.permissions = '69.174.156.218'
     config.web_console.permissions = '192.168.2.9'
     config.web_console.whiny_requests = false
+    #config.exceptions_app = self.routes
   end
 end

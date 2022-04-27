@@ -23,6 +23,14 @@ task :fractionGenomeAltered, :fileName do |t, args|
     end
     x+=1
   end
+
+  counter = 0
+  while x < array.size do
+    if array[counter] == 0
+      array.delete_at(counter)
+    end
+  end
+
   R.quit
   R = RinRuby.new
   R.fraction_genome_altered = array

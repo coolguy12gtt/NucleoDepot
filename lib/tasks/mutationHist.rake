@@ -26,6 +26,14 @@ task :mutationHist, :fileName do |t, args|
     puts y
     x+=1
   end
+
+  counter = 0
+  while x < array.size do
+    if array[counter] == 0
+      array.delete_at(counter)
+    end
+  end
+
   R.quit
   R = RinRuby.new
   R.mutation_count = array

@@ -27,7 +27,7 @@
       <%end%>
     <%end%>
   </div>
-</div>
+</div>	
 </form>
 
 <%if not(form.eql?("breast"))&&not(form.eql?("nervous system"))%>
