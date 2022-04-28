@@ -67,6 +67,7 @@
     </figure>
   <%end%>
 <%end%>
+  <% if not(form.eql?('bile duct')) && not(form.eql?('breast')) && not(form.eql?('nervous system')) && not(form.eql?('prostate')) && not(form.eql?('stomach'))%>
     <figure>
       <%= image_tag 'mutationCount.jpg', height: 300%>
     </figure>
@@ -76,6 +77,7 @@
     <figure>
       <%= image_tag 'genomeScatter.jpg', height: 300%>
     </figure>
+   <%end%>
 </div>
 
 <br>

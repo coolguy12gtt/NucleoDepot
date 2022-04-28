@@ -197,7 +197,8 @@ task :updateDescriptions => :environment do
 
   geneTable = CSV.parse(File.read("updatedDescriptions.csv"), headers: true)
   #puts geneTable[0][0]
-  forms = ["testis","eye","thymus","lymph nodes", "nervous system"]
+  forms = ["bone"]
+  #"testis","eye","thymus","lymph nodes", "nervous system"
   #"adrenal","bone marrow","bladder","brain","breast",
   #"cervix","colorectal","esophagus","head and neck","kidney",
   #"liver","lungs","ovary","pancreas","pleura","prostate","skin",
