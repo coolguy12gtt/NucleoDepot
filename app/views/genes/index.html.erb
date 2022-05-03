@@ -16,7 +16,7 @@
 </div>
 <div class="putInCenter2">
 <form class="form-inline-my-2 my-lg-0" action="/searchID">
-  <input class="form-control mr-sm-2" name="q" type="text" placeholder="Search by Gene (all caps)" aria-label="Search">
+  <input class="form-control mr-sm-2" name="q" type="text" placeholder="Search by Gene" aria-label="Search">
  <div> </div>
   <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Find Gene</button>
 </form>
@@ -25,8 +25,7 @@
            "eye","head and neck","kidney","liver","lungs","lymph nodes","nervous system","ovary","pancreas","pleura",
            "prostate","skin","soft tissue","stomach","testis","thymus","thyroid","uterus"]%>
 <form class="dropdown">
-  <i class="fa-solid fa-caret-down"></i>
-  <button onmouseover="myFunction()" class="dropbtn">Select Cancer Type</button>
+  <button onmouseover="myFunction()" class="dropbtn">Select Cancer Type &nbsp&nbsp <i class="fa-solid fa-caret-down"></i></button>
   <div id="myDropdown" class="dropdown-content">
     <%@genes.each do |gene|%>
       <%while y<29%>

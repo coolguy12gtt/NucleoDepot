@@ -31,7 +31,6 @@
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 16px;
-  font-family: "Times New Roman", Times, serif;
 }
 
 .btn2 {  /*class might need to be changed */
@@ -44,7 +43,6 @@
   border-radius: 4px;
   cursor: pointer;
   font-size: 16px;
-  font-family: "Times New Roman", Times, serif;
   box-shadow: 2px 4px 4px grey;
 }
 
@@ -58,7 +56,6 @@
   cursor: pointer;
   margin: auto;
   font-size: 16px;
-  font-family: "Times New Roman", Times, serif;
   box-shadow: 2px 4px 4px grey;
   border-radius: 4px;
   width: 100%; /*this value will likely need tuning */

@@ -12,19 +12,19 @@ class GenesController < ApplicationController
   end
 
   def searchID
-    @genes = Gene.where("identity LIKE ? ","%" + params[:q] + "%")
-    @meutations = Meutation.where("identity LIKE ? ","%" + params[:q] + "%")
+    @genes = Gene.where("identity ILIKE ? ","%" + params[:q] + "%")
+    @meutations = Meutation.where("identity ILIKE ? ","%" + params[:q] + "%")
   end 
 
   def searchName
-    @genes = Gene.where("name LIKE ? ","%" + params[:q] + "%")
+    @genes = Gene.where("name ILIKE ? ","%" + params[:q] + "%")
   end
 
   def searchType
-    @genes2 = Gene.where("form LIKE ? ","%" + params[:q] + "%")
+    @genes2 = Gene.where("form ILIKE ? ","%" + params[:q] + "%")
     @genes = @genes2.all.sort_by &:id
-    @images = Image.where("form LIKE ? ","%" + params[:q] + "%")
-    @webs = Web.where("form LIKE ? ","%" + params[:q] + "%")
+    @images = Image.where("form ILIKE ? ","%" + params[:q] + "%")
+    @webs = Web.where("form ILIKE ? ","%" + params[:q] + "%")
     respond_to do |format|
       format.html
       format.csv { send_data @genes2.to_csv}
