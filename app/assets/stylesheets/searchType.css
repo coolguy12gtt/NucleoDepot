@@ -46,6 +46,12 @@
   box-shadow: 2px 4px 4px grey;
 }
 
+.fa-solid {
+  font-size: 20px;
+  color: white;
+  transition-duration: 0.5s;
+}
+
 /* Dropdown Button */
 .dropbtn2 {
   background-color: #2e5266;
@@ -72,7 +78,10 @@
   background-color: #2e4a66;
 }
 
-
+form:hover .fa-solid {
+  transform: rotate(180deg);
+  transition-duration: 0.5s;
+}
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
