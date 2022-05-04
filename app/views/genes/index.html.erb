@@ -27,11 +27,9 @@
 <form class="dropdown">
   <button onmouseover="myFunction()" class="dropbtn">Select Cancer Type &nbsp&nbsp <i class="fa-solid fa-caret-down"></i></button>
   <div id="myDropdown" class="dropdown-content">
-    <%@genes.each do |gene|%>
-      <%while y<29%>
-        <a href="/searchType?q=<%=forms[y]%>"><%=forms[y]%></a>
-        <%y = y + 1%>
-      <%end%>
+    <%while y<29%>
+      <a href="/searchType?q=<%=forms[y]%>"><%=forms[y]%></a>
+      <%y = y + 1%>
     <%end%>
   </div>
 </div>
