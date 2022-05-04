@@ -54,7 +54,7 @@ body {background-color: #d3d0cbff;}
 .dropbtn {
   background-color: #2e5266;
   color: white;
-  padding: 14px 14px 20px 20px;
+  padding: 14px;
   font-size: 16px;
   border: none;
   cursor: pointer;
@@ -64,9 +64,8 @@ body {background-color: #d3d0cbff;}
   width: 100%; /*this value will likely need tuning */
 }
 
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-  background-color: #2e4a66;
+.dropbtn:hover {
+  background-color: #264454;
 }
 
 form:hover .fa-solid {
@@ -104,9 +103,5 @@ form:hover .fa-solid {
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
-/* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
-  background-color: #2e4a66;
-}
 
 
