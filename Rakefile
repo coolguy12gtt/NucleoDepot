@@ -195,15 +195,14 @@ task :updateDescriptions => :environment do
   require 'csv'
   puts "Processing..."
 
-  geneTable = CSV.parse(File.read("updatedDescriptions.csv"), headers: true)
+  geneTable = CSV.parse(File.read("data/postgres_contents/updatedDescriptions.csv"), headers: true)
   #puts geneTable[0][0]
-  forms = ["bone"]
-  #"testis","eye","thymus","lymph nodes", "nervous system"
-  #"adrenal","bone marrow","bladder","brain","breast",
-  #"cervix","colorectal","esophagus","head and neck","kidney",
-  #"liver","lungs","ovary","pancreas","pleura","prostate","skin",
-  #"soft tissue","stomach","thyroid",
-  #"uterus","bile duct"]
+  forms = ["bone","testis","eye","thymus","lymph nodes", "nervous system",
+  "adrenal","bone marrow","bladder","brain","breast",
+  "cervix","colorectal","esophagus","head and neck","kidney",
+  "liver","lungs","ovary","pancreas","pleura","prostate","skin",
+  "soft tissue","stomach","thyroid",
+  "uterus","bile duct"]
   x = 0
   forms.each do |form|
     x=0
